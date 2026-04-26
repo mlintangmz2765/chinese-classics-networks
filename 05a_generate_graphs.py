@@ -6,7 +6,7 @@ novels = ['three_kingdoms', 'water_margin', 'journey_west', 'red_chamber']
 BACKBONE_THRESHOLD = 15
 
 for novel in novels:
-    file_name = f"{novel}_network.gexf"
+    file_name = f"network_{novel}.gexf"
     if not os.path.exists(file_name):
         continue
         

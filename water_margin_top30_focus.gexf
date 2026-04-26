@@ -1,0 +1,662 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-26">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="weight" type="long" />
+      <attribute id="1" title="degree_centrality" type="double" />
+      <attribute id="2" title="modularity_class" type="long" />
+    </attributes>
+    <nodes>
+      <node id="林冲" label="林冲">
+        <attvalues>
+          <attvalue for="0" value="261" />
+          <attvalue for="1" value="0.6987179487179487" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="宋江" label="宋江">
+        <attvalues>
+          <attvalue for="0" value="1157" />
+          <attvalue for="1" value="0.8846153846153846" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="李逵" label="李逵">
+        <attvalues>
+          <attvalue for="0" value="310" />
+          <attvalue for="1" value="0.75" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="张清" label="张清">
+        <attvalues>
+          <attvalue for="0" value="107" />
+          <attvalue for="1" value="0.6666666666666666" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="杨雄" label="杨雄">
+        <attvalues>
+          <attvalue for="0" value="113" />
+          <attvalue for="1" value="0.6346153846153846" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="马麟" label="马麟">
+        <attvalues>
+          <attvalue for="0" value="59" />
+          <attvalue for="1" value="0.6346153846153846" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="徐宁" label="徐宁">
+        <attvalues>
+          <attvalue for="0" value="87" />
+          <attvalue for="1" value="0.6282051282051282" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="燕顺" label="燕顺">
+        <attvalues>
+          <attvalue for="0" value="78" />
+          <attvalue for="1" value="0.6538461538461539" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="邓飞" label="邓飞">
+        <attvalues>
+          <attvalue for="0" value="61" />
+          <attvalue for="1" value="0.641025641025641" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="柴进" label="柴进">
+        <attvalues>
+          <attvalue for="0" value="150" />
+          <attvalue for="1" value="0.6282051282051282" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="李衮" label="李衮">
+        <attvalues>
+          <attvalue for="0" value="77" />
+          <attvalue for="1" value="0.6346153846153846" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="樊瑞" label="樊瑞">
+        <attvalues>
+          <attvalue for="0" value="62" />
+          <attvalue for="1" value="0.641025641025641" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="朱仝" label="朱仝">
+        <attvalues>
+          <attvalue for="0" value="122" />
+          <attvalue for="1" value="0.641025641025641" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="花荣" label="花荣">
+        <attvalues>
+          <attvalue for="0" value="197" />
+          <attvalue for="1" value="0.6858974358974359" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="鲁智深" label="鲁智深">
+        <attvalues>
+          <attvalue for="0" value="234" />
+          <attvalue for="1" value="0.7115384615384616" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="欧鹏" label="欧鹏">
+        <attvalues>
+          <attvalue for="0" value="59" />
+          <attvalue for="1" value="0.6282051282051282" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="杜迁" label="杜迁">
+        <attvalues>
+          <attvalue for="0" value="62" />
+          <attvalue for="1" value="0.6217948717948718" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="秦明" label="秦明">
+        <attvalues>
+          <attvalue for="0" value="141" />
+          <attvalue for="1" value="0.6987179487179487" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="刘唐" label="刘唐">
+        <attvalues>
+          <attvalue for="0" value="108" />
+          <attvalue for="1" value="0.641025641025641" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="戴宗" label="戴宗">
+        <attvalues>
+          <attvalue for="0" value="229" />
+          <attvalue for="1" value="0.6987179487179487" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="公孙胜" label="公孙胜">
+        <attvalues>
+          <attvalue for="0" value="157" />
+          <attvalue for="1" value="0.6474358974358975" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="解宝" label="解宝">
+        <attvalues>
+          <attvalue for="0" value="100" />
+          <attvalue for="1" value="0.6666666666666666" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="解珍" label="解珍">
+        <attvalues>
+          <attvalue for="0" value="100" />
+          <attvalue for="1" value="0.6666666666666666" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="石秀" label="石秀">
+        <attvalues>
+          <attvalue for="0" value="151" />
+          <attvalue for="1" value="0.6794871794871795" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="卢俊义" label="卢俊义">
+        <attvalues>
+          <attvalue for="0" value="271" />
+          <attvalue for="1" value="0.7435897435897436" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="凌振" label="凌振">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="0.6282051282051282" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="孙立" label="孙立">
+        <attvalues>
+          <attvalue for="0" value="83" />
+          <attvalue for="1" value="0.6794871794871795" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="项充" label="项充">
+        <attvalues>
+          <attvalue for="0" value="79" />
+          <attvalue for="1" value="0.6346153846153846" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="吴用" label="吴用">
+        <attvalues>
+          <attvalue for="0" value="398" />
+          <attvalue for="1" value="0.7692307692307692" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="武松" label="武松">
+        <attvalues>
+          <attvalue for="0" value="285" />
+          <attvalue for="1" value="0.717948717948718" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="林冲" target="鲁智深" id="394" weight="33.0" />
+      <edge source="林冲" target="柴进" id="665" weight="39.0" />
+      <edge source="林冲" target="杜迁" id="669" weight="30.0" />
+      <edge source="林冲" target="吴用" id="675" weight="72.0" />
+      <edge source="林冲" target="公孙胜" id="680" weight="32.0" />
+      <edge source="林冲" target="刘唐" id="681" weight="32.0" />
+      <edge source="林冲" target="朱仝" id="683" weight="25.0" />
+      <edge source="林冲" target="宋江" id="684" weight="109.0" />
+      <edge source="林冲" target="花荣" id="686" weight="53.0" />
+      <edge source="林冲" target="秦明" id="687" weight="49.0" />
+      <edge source="林冲" target="燕顺" id="688" weight="20.0" />
+      <edge source="林冲" target="欧鹏" id="699" weight="25.0" />
+      <edge source="林冲" target="戴宗" id="700" weight="27.0" />
+      <edge source="林冲" target="李逵" id="701" weight="43.0" />
+      <edge source="林冲" target="马麟" id="705" weight="20.0" />
+      <edge source="林冲" target="石秀" id="712" weight="24.0" />
+      <edge source="林冲" target="邓飞" id="713" weight="21.0" />
+      <edge source="林冲" target="杨雄" id="716" weight="23.0" />
+      <edge source="林冲" target="孙立" id="722" weight="31.0" />
+      <edge source="林冲" target="解宝" id="723" weight="24.0" />
+      <edge source="林冲" target="解珍" id="724" weight="24.0" />
+      <edge source="林冲" target="徐宁" id="731" weight="30.0" />
+      <edge source="林冲" target="凌振" id="732" weight="13.0" />
+      <edge source="林冲" target="武松" id="734" weight="18.0" />
+      <edge source="林冲" target="樊瑞" id="738" weight="17.0" />
+      <edge source="林冲" target="项充" id="739" weight="15.0" />
+      <edge source="林冲" target="李衮" id="740" weight="15.0" />
+      <edge source="林冲" target="卢俊义" id="741" weight="29.0" />
+      <edge source="林冲" target="张清" id="754" weight="31.0" />
+      <edge source="宋江" target="鲁智深" id="401" weight="91.0" />
+      <edge source="宋江" target="柴进" id="786" weight="91.0" />
+      <edge source="宋江" target="杜迁" id="971" weight="26.0" />
+      <edge source="宋江" target="卢俊义" id="1331" weight="177.0" />
+      <edge source="宋江" target="朱仝" id="1431" weight="78.0" />
+      <edge source="宋江" target="刘唐" id="1658" weight="61.0" />
+      <edge source="宋江" target="吴用" id="1736" weight="312.0" />
+      <edge source="宋江" target="公孙胜" id="1979" weight="110.0" />
+      <edge source="宋江" target="李逵" id="2254" weight="195.0" />
+      <edge source="宋江" target="花荣" id="2258" weight="160.0" />
+      <edge source="宋江" target="武松" id="2261" weight="85.0" />
+      <edge source="宋江" target="燕顺" id="2263" weight="58.0" />
+      <edge source="宋江" target="秦明" id="2268" weight="102.0" />
+      <edge source="宋江" target="戴宗" id="2271" weight="170.0" />
+      <edge source="宋江" target="欧鹏" id="2284" weight="37.0" />
+      <edge source="宋江" target="马麟" id="2286" weight="42.0" />
+      <edge source="宋江" target="杨雄" id="2289" weight="41.0" />
+      <edge source="宋江" target="石秀" id="2291" weight="68.0" />
+      <edge source="宋江" target="邓飞" id="2294" weight="37.0" />
+      <edge source="宋江" target="解宝" id="2301" weight="59.0" />
+      <edge source="宋江" target="解珍" id="2302" weight="59.0" />
+      <edge source="宋江" target="孙立" id="2304" weight="54.0" />
+      <edge source="宋江" target="凌振" id="2309" weight="33.0" />
+      <edge source="宋江" target="徐宁" id="2310" weight="58.0" />
+      <edge source="宋江" target="项充" id="2312" weight="52.0" />
+      <edge source="宋江" target="李衮" id="2313" weight="51.0" />
+      <edge source="宋江" target="樊瑞" id="2314" weight="41.0" />
+      <edge source="宋江" target="张清" id="2332" weight="74.0" />
+      <edge source="李逵" target="鲁智深" id="457" weight="45.0" />
+      <edge source="李逵" target="柴进" id="796" weight="42.0" />
+      <edge source="李逵" target="杜迁" id="988" weight="13.0" />
+      <edge source="李逵" target="卢俊义" id="1333" weight="38.0" />
+      <edge source="李逵" target="朱仝" id="1439" weight="35.0" />
+      <edge source="李逵" target="刘唐" id="1674" weight="29.0" />
+      <edge source="李逵" target="吴用" id="1737" weight="86.0" />
+      <edge source="李逵" target="公孙胜" id="1980" weight="34.0" />
+      <edge source="李逵" target="戴宗" id="2422" weight="92.0" />
+      <edge source="李逵" target="花荣" id="2428" weight="46.0" />
+      <edge source="李逵" target="燕顺" id="2435" weight="17.0" />
+      <edge source="李逵" target="欧鹏" id="2440" weight="17.0" />
+      <edge source="李逵" target="秦明" id="2442" weight="28.0" />
+      <edge source="李逵" target="马麟" id="2443" weight="23.0" />
+      <edge source="李逵" target="石秀" id="2449" weight="23.0" />
+      <edge source="李逵" target="邓飞" id="2450" weight="14.0" />
+      <edge source="李逵" target="杨雄" id="2453" weight="19.0" />
+      <edge source="李逵" target="解宝" id="2457" weight="28.0" />
+      <edge source="李逵" target="解珍" id="2459" weight="28.0" />
+      <edge source="李逵" target="孙立" id="2461" weight="20.0" />
+      <edge source="李逵" target="凌振" id="2466" weight="13.0" />
+      <edge source="李逵" target="徐宁" id="2467" weight="17.0" />
+      <edge source="李逵" target="武松" id="2470" weight="39.0" />
+      <edge source="李逵" target="樊瑞" id="2472" weight="35.0" />
+      <edge source="李逵" target="项充" id="2473" weight="54.0" />
+      <edge source="李逵" target="李衮" id="2475" weight="52.0" />
+      <edge source="李逵" target="张清" id="2490" weight="21.0" />
+      <edge source="张清" target="鲁智深" id="469" weight="19.0" />
+      <edge source="张清" target="柴进" id="849" weight="10.0" />
+      <edge source="张清" target="杜迁" id="1044" weight="3.0" />
+      <edge source="张清" target="卢俊义" id="1386" weight="25.0" />
+      <edge source="张清" target="朱仝" id="1500" weight="14.0" />
+      <edge source="张清" target="刘唐" id="1721" weight="14.0" />
+      <edge source="张清" target="吴用" id="1808" weight="33.0" />
+      <edge source="张清" target="公孙胜" id="2039" weight="15.0" />
+      <edge source="张清" target="花荣" id="2581" weight="14.0" />
+      <edge source="张清" target="武松" id="2711" weight="18.0" />
+      <edge source="张清" target="燕顺" id="2848" weight="8.0" />
+      <edge source="张清" target="秦明" id="3087" weight="15.0" />
+      <edge source="张清" target="戴宗" id="3268" weight="12.0" />
+      <edge source="张清" target="马麟" id="3847" weight="6.0" />
+      <edge source="张清" target="欧鹏" id="3891" weight="6.0" />
+      <edge source="张清" target="邓飞" id="4066" weight="6.0" />
+      <edge source="张清" target="杨雄" id="4159" weight="7.0" />
+      <edge source="张清" target="石秀" id="4202" weight="9.0" />
+      <edge source="张清" target="解宝" id="4342" weight="18.0" />
+      <edge source="张清" target="解珍" id="4375" weight="18.0" />
+      <edge source="张清" target="孙立" id="4409" weight="11.0" />
+      <edge source="张清" target="凌振" id="4573" weight="6.0" />
+      <edge source="张清" target="徐宁" id="4585" weight="22.0" />
+      <edge source="张清" target="项充" id="4616" weight="13.0" />
+      <edge source="张清" target="李衮" id="4638" weight="13.0" />
+      <edge source="张清" target="樊瑞" id="4659" weight="16.0" />
+      <edge source="杨雄" target="鲁智深" id="417" weight="15.0" />
+      <edge source="杨雄" target="柴进" id="806" weight="12.0" />
+      <edge source="杨雄" target="杜迁" id="1011" weight="13.0" />
+      <edge source="杨雄" target="卢俊义" id="1356" weight="18.0" />
+      <edge source="杨雄" target="朱仝" id="1449" weight="18.0" />
+      <edge source="杨雄" target="刘唐" id="1691" weight="19.0" />
+      <edge source="杨雄" target="吴用" id="1766" weight="25.0" />
+      <edge source="杨雄" target="公孙胜" id="2016" weight="15.0" />
+      <edge source="杨雄" target="花荣" id="2550" weight="25.0" />
+      <edge source="杨雄" target="武松" id="2674" weight="18.0" />
+      <edge source="杨雄" target="燕顺" id="2829" weight="7.0" />
+      <edge source="杨雄" target="秦明" id="3056" weight="23.0" />
+      <edge source="杨雄" target="戴宗" id="3237" weight="25.0" />
+      <edge source="杨雄" target="马麟" id="3814" weight="12.0" />
+      <edge source="杨雄" target="欧鹏" id="3857" weight="17.0" />
+      <edge source="杨雄" target="邓飞" id="4032" weight="15.0" />
+      <edge source="杨雄" target="石秀" id="4133" weight="85.0" />
+      <edge source="杨雄" target="孙立" id="4143" weight="15.0" />
+      <edge source="杨雄" target="解宝" id="4144" weight="21.0" />
+      <edge source="杨雄" target="解珍" id="4145" weight="21.0" />
+      <edge source="杨雄" target="凌振" id="4148" weight="11.0" />
+      <edge source="杨雄" target="徐宁" id="4150" weight="11.0" />
+      <edge source="杨雄" target="樊瑞" id="4152" weight="7.0" />
+      <edge source="杨雄" target="项充" id="4153" weight="9.0" />
+      <edge source="杨雄" target="李衮" id="4154" weight="8.0" />
+      <edge source="马麟" target="鲁智深" id="435" weight="11.0" />
+      <edge source="马麟" target="柴进" id="805" weight="8.0" />
+      <edge source="马麟" target="杜迁" id="998" weight="9.0" />
+      <edge source="马麟" target="卢俊义" id="1375" weight="10.0" />
+      <edge source="马麟" target="朱仝" id="1448" weight="24.0" />
+      <edge source="马麟" target="刘唐" id="1683" weight="10.0" />
+      <edge source="马麟" target="吴用" id="1757" weight="29.0" />
+      <edge source="马麟" target="公孙胜" id="1999" weight="9.0" />
+      <edge source="马麟" target="花荣" id="2542" weight="30.0" />
+      <edge source="马麟" target="武松" id="2686" weight="10.0" />
+      <edge source="马麟" target="燕顺" id="2816" weight="34.0" />
+      <edge source="马麟" target="秦明" id="3045" weight="27.0" />
+      <edge source="马麟" target="戴宗" id="3230" weight="20.0" />
+      <edge source="马麟" target="欧鹏" id="3805" weight="27.0" />
+      <edge source="马麟" target="石秀" id="3810" weight="12.0" />
+      <edge source="马麟" target="邓飞" id="3811" weight="30.0" />
+      <edge source="马麟" target="解珍" id="3818" weight="10.0" />
+      <edge source="马麟" target="解宝" id="3820" weight="10.0" />
+      <edge source="马麟" target="孙立" id="3822" weight="24.0" />
+      <edge source="马麟" target="凌振" id="3825" weight="10.0" />
+      <edge source="马麟" target="徐宁" id="3827" weight="9.0" />
+      <edge source="马麟" target="樊瑞" id="3829" weight="16.0" />
+      <edge source="马麟" target="项充" id="3830" weight="20.0" />
+      <edge source="马麟" target="李衮" id="3831" weight="20.0" />
+      <edge source="徐宁" target="鲁智深" id="429" weight="13.0" />
+      <edge source="徐宁" target="柴进" id="832" weight="10.0" />
+      <edge source="徐宁" target="杜迁" id="1017" weight="6.0" />
+      <edge source="徐宁" target="卢俊义" id="1344" weight="14.0" />
+      <edge source="徐宁" target="朱仝" id="1477" weight="26.0" />
+      <edge source="徐宁" target="刘唐" id="1703" weight="13.0" />
+      <edge source="徐宁" target="吴用" id="1783" weight="39.0" />
+      <edge source="徐宁" target="公孙胜" id="2019" weight="17.0" />
+      <edge source="徐宁" target="花荣" id="2566" weight="30.0" />
+      <edge source="徐宁" target="武松" id="2682" weight="14.0" />
+      <edge source="徐宁" target="燕顺" id="2835" weight="13.0" />
+      <edge source="徐宁" target="秦明" id="3073" weight="30.0" />
+      <edge source="徐宁" target="戴宗" id="3249" weight="13.0" />
+      <edge source="徐宁" target="欧鹏" id="3872" weight="8.0" />
+      <edge source="徐宁" target="邓飞" id="4043" weight="8.0" />
+      <edge source="徐宁" target="石秀" id="4184" weight="14.0" />
+      <edge source="徐宁" target="解宝" id="4329" weight="20.0" />
+      <edge source="徐宁" target="解珍" id="4362" weight="20.0" />
+      <edge source="徐宁" target="孙立" id="4398" weight="19.0" />
+      <edge source="徐宁" target="凌振" id="4554" weight="12.0" />
+      <edge source="徐宁" target="项充" id="4576" weight="13.0" />
+      <edge source="徐宁" target="李衮" id="4577" weight="13.0" />
+      <edge source="徐宁" target="樊瑞" id="4579" weight="12.0" />
+      <edge source="燕顺" target="鲁智深" id="404" weight="11.0" />
+      <edge source="燕顺" target="柴进" id="793" weight="11.0" />
+      <edge source="燕顺" target="杜迁" id="973" weight="16.0" />
+      <edge source="燕顺" target="卢俊义" id="1414" weight="7.0" />
+      <edge source="燕顺" target="朱仝" id="1461" weight="19.0" />
+      <edge source="燕顺" target="刘唐" id="1662" weight="19.0" />
+      <edge source="燕顺" target="吴用" id="1739" weight="23.0" />
+      <edge source="燕顺" target="公孙胜" id="1982" weight="8.0" />
+      <edge source="燕顺" target="花荣" id="2520" weight="42.0" />
+      <edge source="燕顺" target="武松" id="2661" weight="12.0" />
+      <edge source="燕顺" target="秦明" id="2800" weight="29.0" />
+      <edge source="燕顺" target="戴宗" id="2803" weight="15.0" />
+      <edge source="燕顺" target="欧鹏" id="2814" weight="23.0" />
+      <edge source="燕顺" target="解珍" id="2819" weight="11.0" />
+      <edge source="燕顺" target="石秀" id="2820" weight="5.0" />
+      <edge source="燕顺" target="邓飞" id="2821" weight="18.0" />
+      <edge source="燕顺" target="解宝" id="2826" weight="11.0" />
+      <edge source="燕顺" target="孙立" id="2832" weight="23.0" />
+      <edge source="燕顺" target="凌振" id="2833" weight="11.0" />
+      <edge source="燕顺" target="樊瑞" id="2839" weight="11.0" />
+      <edge source="燕顺" target="项充" id="2840" weight="15.0" />
+      <edge source="燕顺" target="李衮" id="2841" weight="14.0" />
+      <edge source="邓飞" target="鲁智深" id="456" weight="6.0" />
+      <edge source="邓飞" target="柴进" id="800" weight="6.0" />
+      <edge source="邓飞" target="杜迁" id="1005" weight="9.0" />
+      <edge source="邓飞" target="卢俊义" id="1371" weight="16.0" />
+      <edge source="邓飞" target="朱仝" id="1443" weight="14.0" />
+      <edge source="邓飞" target="刘唐" id="1688" weight="10.0" />
+      <edge source="邓飞" target="吴用" id="1769" weight="22.0" />
+      <edge source="邓飞" target="公孙胜" id="2008" weight="12.0" />
+      <edge source="邓飞" target="花荣" id="2547" weight="21.0" />
+      <edge source="邓飞" target="武松" id="2699" weight="6.0" />
+      <edge source="邓飞" target="秦明" id="3053" weight="28.0" />
+      <edge source="邓飞" target="戴宗" id="3234" weight="23.0" />
+      <edge source="邓飞" target="欧鹏" id="3854" weight="40.0" />
+      <edge source="邓飞" target="石秀" id="4031" weight="15.0" />
+      <edge source="邓飞" target="孙立" id="4037" weight="21.0" />
+      <edge source="邓飞" target="解宝" id="4038" weight="8.0" />
+      <edge source="邓飞" target="解珍" id="4040" weight="8.0" />
+      <edge source="邓飞" target="凌振" id="4041" weight="9.0" />
+      <edge source="邓飞" target="樊瑞" id="4047" weight="8.0" />
+      <edge source="邓飞" target="项充" id="4048" weight="12.0" />
+      <edge source="邓飞" target="李衮" id="4049" weight="12.0" />
+      <edge source="柴进" target="鲁智深" id="421" weight="12.0" />
+      <edge source="柴进" target="杜迁" id="776" weight="12.0" />
+      <edge source="柴进" target="吴用" id="779" weight="39.0" />
+      <edge source="柴进" target="刘唐" id="780" weight="11.0" />
+      <edge source="柴进" target="花荣" id="781" weight="25.0" />
+      <edge source="柴进" target="朱仝" id="784" weight="27.0" />
+      <edge source="柴进" target="武松" id="790" weight="22.0" />
+      <edge source="柴进" target="石秀" id="798" weight="12.0" />
+      <edge source="柴进" target="欧鹏" id="799" weight="8.0" />
+      <edge source="柴进" target="戴宗" id="801" weight="27.0" />
+      <edge source="柴进" target="秦明" id="802" weight="13.0" />
+      <edge source="柴进" target="孙立" id="809" weight="13.0" />
+      <edge source="柴进" target="公孙胜" id="810" weight="15.0" />
+      <edge source="柴进" target="解珍" id="821" weight="12.0" />
+      <edge source="柴进" target="凌振" id="824" weight="8.0" />
+      <edge source="柴进" target="解宝" id="828" weight="12.0" />
+      <edge source="柴进" target="项充" id="836" weight="7.0" />
+      <edge source="柴进" target="李衮" id="837" weight="7.0" />
+      <edge source="柴进" target="樊瑞" id="840" weight="8.0" />
+      <edge source="柴进" target="卢俊义" id="845" weight="20.0" />
+      <edge source="李衮" target="鲁智深" id="463" weight="25.0" />
+      <edge source="李衮" target="杜迁" id="1027" weight="6.0" />
+      <edge source="李衮" target="卢俊义" id="1377" weight="17.0" />
+      <edge source="李衮" target="朱仝" id="1485" weight="20.0" />
+      <edge source="李衮" target="刘唐" id="1712" weight="16.0" />
+      <edge source="李衮" target="吴用" id="1788" weight="31.0" />
+      <edge source="李衮" target="公孙胜" id="2029" weight="12.0" />
+      <edge source="李衮" target="花荣" id="2569" weight="17.0" />
+      <edge source="李衮" target="武松" id="2703" weight="22.0" />
+      <edge source="李衮" target="秦明" id="3078" weight="17.0" />
+      <edge source="李衮" target="戴宗" id="3253" weight="13.0" />
+      <edge source="李衮" target="欧鹏" id="3876" weight="11.0" />
+      <edge source="李衮" target="石秀" id="4191" weight="9.0" />
+      <edge source="李衮" target="解宝" id="4335" weight="12.0" />
+      <edge source="李衮" target="解珍" id="4368" weight="12.0" />
+      <edge source="李衮" target="孙立" id="4400" weight="12.0" />
+      <edge source="李衮" target="凌振" id="4558" weight="12.0" />
+      <edge source="李衮" target="项充" id="4606" weight="74.0" />
+      <edge source="李衮" target="樊瑞" id="4629" weight="40.0" />
+      <edge source="樊瑞" target="鲁智深" id="445" weight="20.0" />
+      <edge source="樊瑞" target="杜迁" id="1023" weight="5.0" />
+      <edge source="樊瑞" target="卢俊义" id="1372" weight="14.0" />
+      <edge source="樊瑞" target="朱仝" id="1490" weight="18.0" />
+      <edge source="樊瑞" target="刘唐" id="1709" weight="9.0" />
+      <edge source="樊瑞" target="吴用" id="1791" weight="26.0" />
+      <edge source="樊瑞" target="公孙胜" id="2030" weight="18.0" />
+      <edge source="樊瑞" target="花荣" id="2571" weight="13.0" />
+      <edge source="樊瑞" target="武松" id="2691" weight="19.0" />
+      <edge source="樊瑞" target="秦明" id="3076" weight="13.0" />
+      <edge source="樊瑞" target="戴宗" id="3254" weight="13.0" />
+      <edge source="樊瑞" target="欧鹏" id="3874" weight="7.0" />
+      <edge source="樊瑞" target="石秀" id="4188" weight="9.0" />
+      <edge source="樊瑞" target="解宝" id="4333" weight="15.0" />
+      <edge source="樊瑞" target="解珍" id="4366" weight="15.0" />
+      <edge source="樊瑞" target="孙立" id="4402" weight="14.0" />
+      <edge source="樊瑞" target="凌振" id="4556" weight="15.0" />
+      <edge source="樊瑞" target="项充" id="4607" weight="40.0" />
+      <edge source="朱仝" target="鲁智深" id="416" weight="30.0" />
+      <edge source="朱仝" target="杜迁" id="970" weight="6.0" />
+      <edge source="朱仝" target="卢俊义" id="1343" weight="24.0" />
+      <edge source="朱仝" target="公孙胜" id="1430" weight="19.0" />
+      <edge source="朱仝" target="吴用" id="1433" weight="53.0" />
+      <edge source="朱仝" target="刘唐" id="1434" weight="15.0" />
+      <edge source="朱仝" target="花荣" id="1436" weight="47.0" />
+      <edge source="朱仝" target="欧鹏" id="1440" weight="16.0" />
+      <edge source="朱仝" target="石秀" id="1442" weight="15.0" />
+      <edge source="朱仝" target="戴宗" id="1444" weight="20.0" />
+      <edge source="朱仝" target="秦明" id="1445" weight="35.0" />
+      <edge source="朱仝" target="孙立" id="1452" weight="29.0" />
+      <edge source="朱仝" target="凌振" id="1459" weight="12.0" />
+      <edge source="朱仝" target="解珍" id="1465" weight="17.0" />
+      <edge source="朱仝" target="解宝" id="1471" weight="17.0" />
+      <edge source="朱仝" target="武松" id="1478" weight="30.0" />
+      <edge source="朱仝" target="项充" id="1484" weight="20.0" />
+      <edge source="花荣" target="鲁智深" id="399" weight="19.0" />
+      <edge source="花荣" target="杜迁" id="976" weight="14.0" />
+      <edge source="花荣" target="卢俊义" id="1340" weight="31.0" />
+      <edge source="花荣" target="刘唐" id="1663" weight="27.0" />
+      <edge source="花荣" target="吴用" id="1742" weight="73.0" />
+      <edge source="花荣" target="公孙胜" id="1985" weight="22.0" />
+      <edge source="花荣" target="武松" id="2519" weight="23.0" />
+      <edge source="花荣" target="秦明" id="2525" weight="82.0" />
+      <edge source="花荣" target="戴宗" id="2528" weight="41.0" />
+      <edge source="花荣" target="欧鹏" id="2540" weight="23.0" />
+      <edge source="花荣" target="石秀" id="2546" weight="27.0" />
+      <edge source="花荣" target="孙立" id="2554" weight="33.0" />
+      <edge source="花荣" target="解宝" id="2556" weight="25.0" />
+      <edge source="花荣" target="解珍" id="2557" weight="25.0" />
+      <edge source="花荣" target="凌振" id="2564" weight="14.0" />
+      <edge source="花荣" target="项充" id="2568" weight="17.0" />
+      <edge source="鲁智深" target="武松" id="398" weight="85.0" />
+      <edge source="鲁智深" target="欧鹏" id="406" weight="7.0" />
+      <edge source="鲁智深" target="解珍" id="408" weight="24.0" />
+      <edge source="鲁智深" target="公孙胜" id="409" weight="19.0" />
+      <edge source="鲁智深" target="凌振" id="410" weight="16.0" />
+      <edge source="鲁智深" target="秦明" id="411" weight="21.0" />
+      <edge source="鲁智深" target="解宝" id="414" weight="24.0" />
+      <edge source="鲁智深" target="吴用" id="419" weight="43.0" />
+      <edge source="鲁智深" target="孙立" id="423" weight="11.0" />
+      <edge source="鲁智深" target="戴宗" id="424" weight="21.0" />
+      <edge source="鲁智深" target="石秀" id="426" weight="12.0" />
+      <edge source="鲁智深" target="杜迁" id="450" weight="6.0" />
+      <edge source="鲁智深" target="项充" id="455" weight="27.0" />
+      <edge source="鲁智深" target="刘唐" id="461" weight="24.0" />
+      <edge source="鲁智深" target="卢俊义" id="464" weight="26.0" />
+      <edge source="欧鹏" target="杜迁" id="996" weight="13.0" />
+      <edge source="欧鹏" target="卢俊义" id="1381" weight="17.0" />
+      <edge source="欧鹏" target="刘唐" id="1681" weight="12.0" />
+      <edge source="欧鹏" target="吴用" id="1752" weight="21.0" />
+      <edge source="欧鹏" target="公孙胜" id="1994" weight="12.0" />
+      <edge source="欧鹏" target="武松" id="2665" weight="7.0" />
+      <edge source="欧鹏" target="秦明" id="3040" weight="28.0" />
+      <edge source="欧鹏" target="戴宗" id="3228" weight="15.0" />
+      <edge source="欧鹏" target="石秀" id="3853" weight="16.0" />
+      <edge source="欧鹏" target="解珍" id="3860" weight="10.0" />
+      <edge source="欧鹏" target="解宝" id="3864" weight="10.0" />
+      <edge source="欧鹏" target="孙立" id="3866" weight="23.0" />
+      <edge source="欧鹏" target="凌振" id="3870" weight="9.0" />
+      <edge source="欧鹏" target="项充" id="3875" weight="11.0" />
+      <edge source="杜迁" target="吴用" id="965" weight="22.0" />
+      <edge source="杜迁" target="公孙胜" id="967" weight="18.0" />
+      <edge source="杜迁" target="刘唐" id="968" weight="30.0" />
+      <edge source="杜迁" target="秦明" id="974" weight="13.0" />
+      <edge source="杜迁" target="戴宗" id="982" weight="14.0" />
+      <edge source="杜迁" target="解珍" id="1003" weight="9.0" />
+      <edge source="杜迁" target="石秀" id="1004" weight="8.0" />
+      <edge source="杜迁" target="解宝" id="1008" weight="9.0" />
+      <edge source="杜迁" target="孙立" id="1014" weight="7.0" />
+      <edge source="杜迁" target="凌振" id="1015" weight="10.0" />
+      <edge source="杜迁" target="武松" id="1021" weight="6.0" />
+      <edge source="杜迁" target="项充" id="1026" weight="6.0" />
+      <edge source="杜迁" target="卢俊义" id="1030" weight="7.0" />
+      <edge source="秦明" target="卢俊义" id="1342" weight="23.0" />
+      <edge source="秦明" target="刘唐" id="1664" weight="18.0" />
+      <edge source="秦明" target="吴用" id="1740" weight="46.0" />
+      <edge source="秦明" target="公孙胜" id="1983" weight="24.0" />
+      <edge source="秦明" target="武松" id="2669" weight="18.0" />
+      <edge source="秦明" target="戴宗" id="3041" weight="23.0" />
+      <edge source="秦明" target="石秀" id="3052" weight="26.0" />
+      <edge source="秦明" target="孙立" id="3063" weight="30.0" />
+      <edge source="秦明" target="解珍" id="3064" weight="19.0" />
+      <edge source="秦明" target="解宝" id="3067" weight="19.0" />
+      <edge source="秦明" target="凌振" id="3071" weight="10.0" />
+      <edge source="秦明" target="项充" id="3077" weight="17.0" />
+      <edge source="刘唐" target="卢俊义" id="1339" weight="15.0" />
+      <edge source="刘唐" target="吴用" id="1652" weight="52.0" />
+      <edge source="刘唐" target="公孙胜" id="1653" weight="32.0" />
+      <edge source="刘唐" target="戴宗" id="1669" weight="22.0" />
+      <edge source="刘唐" target="石秀" id="1687" weight="14.0" />
+      <edge source="刘唐" target="解珍" id="1692" weight="17.0" />
+      <edge source="刘唐" target="解宝" id="1697" weight="17.0" />
+      <edge source="刘唐" target="孙立" id="1700" weight="10.0" />
+      <edge source="刘唐" target="凌振" id="1701" weight="14.0" />
+      <edge source="刘唐" target="武松" id="1707" weight="22.0" />
+      <edge source="刘唐" target="项充" id="1711" weight="17.0" />
+      <edge source="戴宗" target="卢俊义" id="1352" weight="27.0" />
+      <edge source="戴宗" target="吴用" id="1747" weight="79.0" />
+      <edge source="戴宗" target="公孙胜" id="1990" weight="45.0" />
+      <edge source="戴宗" target="武松" id="2678" weight="17.0" />
+      <edge source="戴宗" target="石秀" id="3238" weight="29.0" />
+      <edge source="戴宗" target="解宝" id="3241" weight="15.0" />
+      <edge source="戴宗" target="解珍" id="3243" weight="15.0" />
+      <edge source="戴宗" target="孙立" id="3244" weight="16.0" />
+      <edge source="戴宗" target="凌振" id="3248" weight="13.0" />
+      <edge source="戴宗" target="项充" id="3252" weight="13.0" />
+      <edge source="公孙胜" target="卢俊义" id="1346" weight="35.0" />
+      <edge source="公孙胜" target="吴用" id="1734" weight="83.0" />
+      <edge source="公孙胜" target="石秀" id="2011" weight="12.0" />
+      <edge source="公孙胜" target="孙立" id="2013" weight="13.0" />
+      <edge source="公孙胜" target="凌振" id="2018" weight="15.0" />
+      <edge source="公孙胜" target="解珍" id="2020" weight="15.0" />
+      <edge source="公孙胜" target="解宝" id="2023" weight="15.0" />
+      <edge source="公孙胜" target="武松" id="2026" weight="14.0" />
+      <edge source="公孙胜" target="项充" id="2028" weight="12.0" />
+      <edge source="解宝" target="卢俊义" id="1366" weight="21.0" />
+      <edge source="解宝" target="吴用" id="1774" weight="36.0" />
+      <edge source="解宝" target="武松" id="2672" weight="27.0" />
+      <edge source="解宝" target="石秀" id="4180" weight="22.0" />
+      <edge source="解宝" target="解珍" id="4322" weight="98.0" />
+      <edge source="解宝" target="孙立" id="4324" weight="21.0" />
+      <edge source="解宝" target="凌振" id="4327" weight="15.0" />
+      <edge source="解宝" target="项充" id="4334" weight="13.0" />
+      <edge source="解珍" target="卢俊义" id="1363" weight="21.0" />
+      <edge source="解珍" target="吴用" id="1776" weight="36.0" />
+      <edge source="解珍" target="武松" id="2667" weight="27.0" />
+      <edge source="解珍" target="石秀" id="4181" weight="22.0" />
+      <edge source="解珍" target="孙立" id="4357" weight="21.0" />
+      <edge source="解珍" target="凌振" id="4360" weight="15.0" />
+      <edge source="解珍" target="项充" id="4367" weight="13.0" />
+      <edge source="石秀" target="卢俊义" id="1355" weight="28.0" />
+      <edge source="石秀" target="吴用" id="1768" weight="40.0" />
+      <edge source="石秀" target="武松" id="2679" weight="15.0" />
+      <edge source="石秀" target="孙立" id="4179" weight="18.0" />
+      <edge source="石秀" target="凌振" id="4187" weight="7.0" />
+      <edge source="石秀" target="项充" id="4190" weight="10.0" />
+      <edge source="卢俊义" target="吴用" id="1332" weight="84.0" />
+      <edge source="卢俊义" target="武松" id="1338" weight="19.0" />
+      <edge source="卢俊义" target="凌振" id="1364" weight="9.0" />
+      <edge source="卢俊义" target="项充" id="1370" weight="17.0" />
+      <edge source="卢俊义" target="孙立" id="1389" weight="16.0" />
+      <edge source="凌振" target="吴用" id="1782" weight="26.0" />
+      <edge source="凌振" target="武松" id="2668" weight="15.0" />
+      <edge source="凌振" target="孙立" id="4396" weight="12.0" />
+      <edge source="凌振" target="项充" id="4557" weight="13.0" />
+      <edge source="孙立" target="吴用" id="1772" weight="34.0" />
+      <edge source="孙立" target="武松" id="2677" weight="12.0" />
+      <edge source="孙立" target="项充" id="4399" weight="12.0" />
+      <edge source="项充" target="吴用" id="1787" weight="31.0" />
+      <edge source="项充" target="武松" id="2698" weight="23.0" />
+      <edge source="吴用" target="武松" id="1784" weight="41.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -3,8 +3,11 @@
 # But do not ignore README.md
 !README.md
 
-# Ignore all Word documents
+# Ignore all TXT, ZIP, Word. and PDF documents
+*.txt
+*.zip
 *.docx
+*.pdf
 
 # Ignore temporary and virtual environment folders
 tmp/

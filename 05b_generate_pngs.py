@@ -2,6 +2,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
 from adjustText import adjust_text
+from matplotlib.lines import Line2D
 import os
 from pypinyin import pinyin, Style
 
@@ -104,8 +105,6 @@ for novel in novels:
     adjust_text(texts, lim=1000, expand_points=(1.5, 1.5), expand_text=(1.5, 1.5), 
                 force_text=(0.8, 0.8), force_points=(0.8, 0.8),
                 arrowprops=dict(arrowstyle="-", color='gray', lw=0.5, alpha=0.6))
-    
-    from matplotlib.lines import Line2D
     
     legend_elements = [
         Line2D([0], [0], marker='o', color='w', markerfacecolor='gray', markersize=12, label='Node Size: Degree Centrality'),

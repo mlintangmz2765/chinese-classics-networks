@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-26">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="weight" type="long" />
+      <attribute id="1" title="degree_centrality" type="double" />
+      <attribute id="2" title="modularity_class" type="long" />
+    </attributes>
+    <nodes>
+      <node id="玉皇大帝" label="玉皇大帝">
+        <attvalues>
+          <attvalue for="0" value="122" />
+          <attvalue for="1" value="0.328125" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="孙悟空" label="孙悟空">
+        <attvalues>
+          <attvalue for="0" value="1837" />
+          <attvalue for="1" value="0.875" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="阎罗王" label="阎罗王">
+        <attvalues>
+          <attvalue for="0" value="32" />
+          <attvalue for="1" value="0.1875" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="太上老君" label="太上老君">
+        <attvalues>
+          <attvalue for="0" value="54" />
+          <attvalue for="1" value="0.171875" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="龙王" label="龙王">
+        <attvalues>
+          <attvalue for="0" value="123" />
+          <attvalue for="1" value="0.265625" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="白龙马" label="白龙马">
+        <attvalues>
+          <attvalue for="0" value="103" />
+          <attvalue for="1" value="0.140625" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="牛魔王" label="牛魔王">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="0.140625" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="雷公" label="雷公">
+        <attvalues>
+          <attvalue for="0" value="48" />
+          <attvalue for="1" value="0.140625" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="观音菩萨" label="观音菩萨">
+        <attvalues>
+          <attvalue for="0" value="315" />
+          <attvalue for="1" value="0.421875" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="托塔李天王" label="托塔李天王">
+        <attvalues>
+          <attvalue for="0" value="48" />
+          <attvalue for="1" value="0.21875" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="哪吒" label="哪吒">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="0.109375" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="王母娘娘" label="王母娘娘">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="0.109375" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="惠岸行者" label="惠岸行者">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="0.0625" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="金刚" label="金刚">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="0.140625" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="如来" label="如来">
+        <attvalues>
+          <attvalue for="0" value="95" />
+          <attvalue for="1" value="0.234375" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="唐僧" label="唐僧">
+        <attvalues>
+          <attvalue for="0" value="1164" />
+          <attvalue for="1" value="0.625" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="沙和尚" label="沙和尚">
+        <attvalues>
+          <attvalue for="0" value="571" />
+          <attvalue for="1" value="0.359375" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="唐太宗" label="唐太宗">
+        <attvalues>
+          <attvalue for="0" value="69" />
+          <attvalue for="1" value="0.265625" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="刘伯钦" label="刘伯钦">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="0.03125" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="伽蓝" label="伽蓝">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="0.09375" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="猪八戒" label="猪八戒">
+        <attvalues>
+          <attvalue for="0" value="863" />
+          <attvalue for="1" value="0.484375" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="黄风怪" label="黄风怪">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="0.078125" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="铁扇公主" label="铁扇公主">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="0.109375" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="金圣宫娘娘" label="金圣宫娘娘">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="0.03125" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="玉皇大帝" target="观音菩萨" id="1" weight="24.0" />
+      <edge source="玉皇大帝" target="孙悟空" id="3" weight="97.0" />
+      <edge source="玉皇大帝" target="托塔李天王" id="4" weight="25.0" />
+      <edge source="玉皇大帝" target="太上老君" id="8" weight="17.0" />
+      <edge source="玉皇大帝" target="唐僧" id="18" weight="28.0" />
+      <edge source="孙悟空" target="阎罗王" id="21" weight="20.0" />
+      <edge source="孙悟空" target="太上老君" id="23" weight="47.0" />
+      <edge source="孙悟空" target="龙王" id="24" weight="83.0" />
+      <edge source="孙悟空" target="白龙马" id="25" weight="75.0" />
+      <edge source="孙悟空" target="牛魔王" id="28" weight="42.0" />
+      <edge source="孙悟空" target="雷公" id="29" weight="39.0" />
+      <edge source="孙悟空" target="观音菩萨" id="30" weight="231.0" />
+      <edge source="孙悟空" target="托塔李天王" id="31" weight="39.0" />
+      <edge source="孙悟空" target="哪吒" id="32" weight="16.0" />
+      <edge source="孙悟空" target="王母娘娘" id="35" weight="15.0" />
+      <edge source="孙悟空" target="金刚" id="38" weight="21.0" />
+      <edge source="孙悟空" target="如来" id="39" weight="64.0" />
+      <edge source="孙悟空" target="唐僧" id="40" weight="831.0" />
+      <edge source="孙悟空" target="唐太宗" id="42" weight="16.0" />
+      <edge source="孙悟空" target="伽蓝" id="44" weight="18.0" />
+      <edge source="孙悟空" target="猪八戒" id="47" weight="709.0" />
+      <edge source="孙悟空" target="黄风怪" id="49" weight="16.0" />
+      <edge source="孙悟空" target="沙和尚" id="52" weight="479.0" />
+      <edge source="孙悟空" target="铁扇公主" id="61" weight="30.0" />
+      <edge source="孙悟空" target="金圣宫娘娘" id="71" weight="15.0" />
+      <edge source="龙王" target="白龙马" id="95" weight="15.0" />
+      <edge source="龙王" target="唐僧" id="101" weight="35.0" />
+      <edge source="龙王" target="沙和尚" id="105" weight="15.0" />
+      <edge source="龙王" target="猪八戒" id="106" weight="34.0" />
+      <edge source="白龙马" target="唐僧" id="111" weight="56.0" />
+      <edge source="白龙马" target="猪八戒" id="112" weight="52.0" />
+      <edge source="白龙马" target="沙和尚" id="113" weight="50.0" />
+      <edge source="牛魔王" target="铁扇公主" id="120" weight="20.0" />
+      <edge source="牛魔王" target="猪八戒" id="123" weight="17.0" />
+      <edge source="雷公" target="唐僧" id="128" weight="19.0" />
+      <edge source="观音菩萨" target="惠岸行者" id="133" weight="16.0" />
+      <edge source="观音菩萨" target="金刚" id="136" weight="19.0" />
+      <edge source="观音菩萨" target="如来" id="137" weight="44.0" />
+      <edge source="观音菩萨" target="唐僧" id="138" weight="165.0" />
+      <edge source="观音菩萨" target="沙和尚" id="139" weight="67.0" />
+      <edge source="观音菩萨" target="猪八戒" id="144" weight="89.0" />
+      <edge source="金刚" target="如来" id="166" weight="20.0" />
+      <edge source="金刚" target="唐僧" id="167" weight="23.0" />
+      <edge source="如来" target="唐僧" id="171" weight="45.0" />
+      <edge source="如来" target="猪八戒" id="173" weight="20.0" />
+      <edge source="唐僧" target="唐太宗" id="180" weight="35.0" />
+      <edge source="唐僧" target="刘伯钦" id="182" weight="18.0" />
+      <edge source="唐僧" target="伽蓝" id="184" weight="15.0" />
+      <edge source="唐僧" target="猪八戒" id="185" weight="478.0" />
+      <edge source="唐僧" target="沙和尚" id="189" weight="353.0" />
+      <edge source="沙和尚" target="猪八戒" id="202" weight="485.0" />
+    </edges>
+  </graph>
+</gexf>

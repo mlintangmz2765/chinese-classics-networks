@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-26">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="weight" type="long" />
+      <attribute id="1" title="degree_centrality" type="double" />
+      <attribute id="2" title="modularity_class" type="long" />
+    </attributes>
+    <nodes>
+      <node id="贾宝玉" label="贾宝玉">
+        <attvalues>
+          <attvalue for="0" value="972" />
+          <attvalue for="1" value="0.7872340425531915" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="林黛玉" label="林黛玉">
+        <attvalues>
+          <attvalue for="0" value="504" />
+          <attvalue for="1" value="0.5531914893617021" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="贾蓉" label="贾蓉">
+        <attvalues>
+          <attvalue for="0" value="106" />
+          <attvalue for="1" value="0.4148936170212766" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="贾政" label="贾政">
+        <attvalues>
+          <attvalue for="0" value="280" />
+          <attvalue for="1" value="0.5531914893617021" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="贾珍" label="贾珍">
+        <attvalues>
+          <attvalue for="0" value="143" />
+          <attvalue for="1" value="0.4787234042553191" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="惜春" label="惜春">
+        <attvalues>
+          <attvalue for="0" value="91" />
+          <attvalue for="1" value="0.3723404255319149" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="探春" label="探春">
+        <attvalues>
+          <attvalue for="0" value="181" />
+          <attvalue for="1" value="0.3723404255319149" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="迎春" label="迎春">
+        <attvalues>
+          <attvalue for="0" value="80" />
+          <attvalue for="1" value="0.2978723404255319" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="贾琏" label="贾琏">
+        <attvalues>
+          <attvalue for="0" value="223" />
+          <attvalue for="1" value="0.5531914893617021" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="贾母" label="贾母">
+        <attvalues>
+          <attvalue for="0" value="695" />
+          <attvalue for="1" value="0.8297872340425532" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="王熙凤" label="王熙凤">
+        <attvalues>
+          <attvalue for="0" value="548" />
+          <attvalue for="1" value="0.7021276595744681" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="王夫人" label="王夫人">
+        <attvalues>
+          <attvalue for="0" value="419" />
+          <attvalue for="1" value="0.6276595744680851" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="邢夫人" label="邢夫人">
+        <attvalues>
+          <attvalue for="0" value="134" />
+          <attvalue for="1" value="0.46808510638297873" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="李纨" label="李纨">
+        <attvalues>
+          <attvalue for="0" value="29" />
+          <attvalue for="1" value="0.20212765957446807" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="雪雁" label="雪雁">
+        <attvalues>
+          <attvalue for="0" value="51" />
+          <attvalue for="1" value="0.14893617021276595" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="薛蟠" label="薛蟠">
+        <attvalues>
+          <attvalue for="0" value="96" />
+          <attvalue for="1" value="0.3191489361702128" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="贾兰" label="贾兰">
+        <attvalues>
+          <attvalue for="0" value="59" />
+          <attvalue for="1" value="0.32978723404255317" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="薛宝钗" label="薛宝钗">
+        <attvalues>
+          <attvalue for="0" value="406" />
+          <attvalue for="1" value="0.5212765957446809" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="薛姨妈" label="薛姨妈">
+        <attvalues>
+          <attvalue for="0" value="180" />
+          <attvalue for="1" value="0.46808510638297873" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="尤氏" label="尤氏">
+        <attvalues>
+          <attvalue for="0" value="133" />
+          <attvalue for="1" value="0.4787234042553191" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="秦可卿" label="秦可卿">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="0.1276595744680851" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="周瑞" label="周瑞">
+        <attvalues>
+          <attvalue for="0" value="76" />
+          <attvalue for="1" value="0.28723404255319146" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="周瑞家的" label="周瑞家的">
+        <attvalues>
+          <attvalue for="0" value="59" />
+          <attvalue for="1" value="0.26595744680851063" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="平儿" label="平儿">
+        <attvalues>
+          <attvalue for="0" value="221" />
+          <attvalue for="1" value="0.46808510638297873" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="金钏" label="金钏">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="0.14893617021276595" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="秦钟" label="秦钟">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="0.19148936170212766" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="紫鹃" label="紫鹃">
+        <attvalues>
+          <attvalue for="0" value="119" />
+          <attvalue for="1" value="0.26595744680851063" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="李贵" label="李贵">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="0.11702127659574468" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="北静王" label="北静王">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="0.13829787234042554" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="旺儿" label="旺儿">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="0.09574468085106383" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="贾芸" label="贾芸">
+        <attvalues>
+          <attvalue for="0" value="65" />
+          <attvalue for="1" value="0.2978723404255319" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="赖大" label="赖大">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="0.2553191489361702" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="林之孝" label="林之孝">
+        <attvalues>
+          <attvalue for="0" value="44" />
+          <attvalue for="1" value="0.2765957446808511" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="夏金桂" label="夏金桂">
+        <attvalues>
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="0.10638297872340426" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="妙玉" label="妙玉">
+        <attvalues>
+          <attvalue for="0" value="39" />
+          <attvalue for="1" value="0.1276595744680851" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="贾元春" label="贾元春">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="0.18085106382978722" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="贾环" label="贾环">
+        <attvalues>
+          <attvalue for="0" value="72" />
+          <attvalue for="1" value="0.3404255319148936" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="秋纹" label="秋纹">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="0.10638297872340426" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="史湘云" label="史湘云">
+        <attvalues>
+          <attvalue for="0" value="63" />
+          <attvalue for="1" value="0.26595744680851063" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="玉钏" label="玉钏">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="0.14893617021276595" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="巧姐" label="巧姐">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="0.2127659574468085" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="薛宝琴" label="薛宝琴">
+        <attvalues>
+          <attvalue for="0" value="82" />
+          <attvalue for="1" value="0.2978723404255319" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="尤二姐" label="尤二姐">
+        <attvalues>
+          <attvalue for="0" value="38" />
+          <attvalue for="1" value="0.19148936170212766" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="贾宝玉" target="贾蓉" id="12" weight="40.0" />
+      <edge source="贾宝玉" target="贾政" id="13" weight="166.0" />
+      <edge source="贾宝玉" target="贾珍" id="14" weight="54.0" />
+      <edge source="贾宝玉" target="林黛玉" id="16" weight="369.0" />
+      <edge source="贾宝玉" target="王夫人" id="17" weight="265.0" />
+      <edge source="贾宝玉" target="贾母" id="18" weight="412.0" />
+      <edge source="贾宝玉" target="探春" id="19" weight="105.0" />
+      <edge source="贾宝玉" target="王熙凤" id="20" weight="239.0" />
+      <edge source="贾宝玉" target="迎春" id="21" weight="53.0" />
+      <edge source="贾宝玉" target="雪雁" id="23" weight="40.0" />
+      <edge source="贾宝玉" target="惜春" id="24" weight="54.0" />
+      <edge source="贾宝玉" target="薛宝钗" id="25" weight="278.0" />
+      <edge source="贾宝玉" target="秦可卿" id="26" weight="23.0" />
+      <edge source="贾宝玉" target="周瑞" id="29" weight="17.0" />
+      <edge source="贾宝玉" target="尤氏" id="30" weight="57.0" />
+      <edge source="贾宝玉" target="秦钟" id="31" weight="33.0" />
+      <edge source="贾宝玉" target="平儿" id="32" weight="72.0" />
+      <edge source="贾宝玉" target="薛姨妈" id="35" weight="96.0" />
+      <edge source="贾宝玉" target="紫鹃" id="36" weight="97.0" />
+      <edge source="贾宝玉" target="李贵" id="38" weight="20.0" />
+      <edge source="贾宝玉" target="薛蟠" id="39" weight="37.0" />
+      <edge source="贾宝玉" target="贾兰" id="44" weight="52.0" />
+      <edge source="贾宝玉" target="邢夫人" id="45" weight="61.0" />
+      <edge source="贾宝玉" target="贾琏" id="46" weight="71.0" />
+      <edge source="贾宝玉" target="贾芸" id="49" weight="29.0" />
+      <edge source="贾宝玉" target="北静王" id="50" weight="16.0" />
+      <edge source="贾宝玉" target="贾元春" id="52" weight="22.0" />
+      <edge source="贾宝玉" target="贾环" id="53" weight="53.0" />
+      <edge source="贾宝玉" target="秋纹" id="54" weight="46.0" />
+      <edge source="贾宝玉" target="史湘云" id="55" weight="50.0" />
+      <edge source="贾宝玉" target="李纨" id="56" weight="17.0" />
+      <edge source="贾宝玉" target="金钏" id="57" weight="16.0" />
+      <edge source="贾宝玉" target="玉钏" id="59" weight="15.0" />
+      <edge source="贾宝玉" target="巧姐" id="62" weight="21.0" />
+      <edge source="贾宝玉" target="林之孝" id="63" weight="17.0" />
+      <edge source="贾宝玉" target="赖大" id="64" weight="20.0" />
+      <edge source="贾宝玉" target="妙玉" id="67" weight="20.0" />
+      <edge source="贾宝玉" target="薛宝琴" id="70" weight="46.0" />
+      <edge source="林黛玉" target="贾母" id="97" weight="220.0" />
+      <edge source="林黛玉" target="贾政" id="98" weight="39.0" />
+      <edge source="林黛玉" target="贾琏" id="99" weight="22.0" />
+      <edge source="林黛玉" target="王熙凤" id="100" weight="127.0" />
+      <edge source="林黛玉" target="王夫人" id="101" weight="116.0" />
+      <edge source="林黛玉" target="邢夫人" id="102" weight="23.0" />
+      <edge source="林黛玉" target="惜春" id="103" weight="38.0" />
+      <edge source="林黛玉" target="迎春" id="105" weight="41.0" />
+      <edge source="林黛玉" target="探春" id="106" weight="87.0" />
+      <edge source="林黛玉" target="雪雁" id="108" weight="49.0" />
+      <edge source="林黛玉" target="薛蟠" id="109" weight="15.0" />
+      <edge source="林黛玉" target="贾兰" id="110" weight="20.0" />
+      <edge source="林黛玉" target="贾珍" id="111" weight="16.0" />
+      <edge source="林黛玉" target="薛姨妈" id="112" weight="62.0" />
+      <edge source="林黛玉" target="薛宝钗" id="113" weight="207.0" />
+      <edge source="林黛玉" target="尤氏" id="118" weight="23.0" />
+      <edge source="林黛玉" target="紫鹃" id="120" weight="109.0" />
+      <edge source="林黛玉" target="平儿" id="121" weight="28.0" />
+      <edge source="林黛玉" target="秋纹" id="130" weight="19.0" />
+      <edge source="林黛玉" target="史湘云" id="131" weight="36.0" />
+      <edge source="林黛玉" target="薛宝琴" id="140" weight="40.0" />
+      <edge source="贾蓉" target="贾政" id="158" weight="18.0" />
+      <edge source="贾蓉" target="贾珍" id="159" weight="63.0" />
+      <edge source="贾蓉" target="尤氏" id="160" weight="42.0" />
+      <edge source="贾蓉" target="邢夫人" id="161" weight="20.0" />
+      <edge source="贾蓉" target="王夫人" id="162" weight="29.0" />
+      <edge source="贾蓉" target="贾母" id="163" weight="55.0" />
+      <edge source="贾蓉" target="王熙凤" id="166" weight="53.0" />
+      <edge source="贾蓉" target="贾琏" id="177" weight="36.0" />
+      <edge source="贾政" target="贾珍" id="194" weight="43.0" />
+      <edge source="贾政" target="贾母" id="195" weight="131.0" />
+      <edge source="贾政" target="王夫人" id="196" weight="106.0" />
+      <edge source="贾政" target="薛宝钗" id="198" weight="48.0" />
+      <edge source="贾政" target="薛姨妈" id="199" weight="21.0" />
+      <edge source="贾政" target="贾琏" id="200" weight="67.0" />
+      <edge source="贾政" target="尤氏" id="204" weight="20.0" />
+      <edge source="贾政" target="贾兰" id="209" weight="25.0" />
+      <edge source="贾政" target="邢夫人" id="211" weight="37.0" />
+      <edge source="贾政" target="王熙凤" id="212" weight="62.0" />
+      <edge source="贾政" target="赖大" id="215" weight="17.0" />
+      <edge source="贾政" target="贾元春" id="217" weight="20.0" />
+      <edge source="贾政" target="贾环" id="218" weight="27.0" />
+      <edge source="贾政" target="探春" id="219" weight="18.0" />
+      <edge source="贾政" target="惜春" id="221" weight="16.0" />
+      <edge source="贾珍" target="薛姨妈" id="241" weight="17.0" />
+      <edge source="贾珍" target="贾琏" id="242" weight="47.0" />
+      <edge source="贾珍" target="贾母" id="243" weight="70.0" />
+      <edge source="贾珍" target="王夫人" id="244" weight="41.0" />
+      <edge source="贾珍" target="薛宝钗" id="246" weight="16.0" />
+      <edge source="贾珍" target="尤氏" id="247" weight="51.0" />
+      <edge source="贾珍" target="邢夫人" id="248" weight="24.0" />
+      <edge source="贾珍" target="王熙凤" id="250" weight="48.0" />
+      <edge source="惜春" target="探春" id="280" weight="42.0" />
+      <edge source="惜春" target="迎春" id="281" weight="32.0" />
+      <edge source="惜春" target="贾母" id="283" weight="52.0" />
+      <edge source="惜春" target="王夫人" id="284" weight="38.0" />
+      <edge source="惜春" target="王熙凤" id="285" weight="39.0" />
+      <edge source="惜春" target="薛宝钗" id="286" weight="47.0" />
+      <edge source="惜春" target="薛姨妈" id="290" weight="17.0" />
+      <edge source="惜春" target="尤氏" id="300" weight="21.0" />
+      <edge source="探春" target="迎春" id="310" weight="38.0" />
+      <edge source="探春" target="贾母" id="312" weight="84.0" />
+      <edge source="探春" target="王夫人" id="313" weight="50.0" />
+      <edge source="探春" target="王熙凤" id="314" weight="60.0" />
+      <edge source="探春" target="薛宝钗" id="316" weight="84.0" />
+      <edge source="探春" target="史湘云" id="323" weight="16.0" />
+      <edge source="探春" target="薛姨妈" id="324" weight="20.0" />
+      <edge source="探春" target="平儿" id="326" weight="39.0" />
+      <edge source="探春" target="紫鹃" id="328" weight="18.0" />
+      <edge source="探春" target="尤氏" id="331" weight="17.0" />
+      <edge source="探春" target="薛宝琴" id="332" weight="26.0" />
+      <edge source="迎春" target="贾母" id="340" weight="49.0" />
+      <edge source="迎春" target="王夫人" id="341" weight="44.0" />
+      <edge source="迎春" target="王熙凤" id="342" weight="38.0" />
+      <edge source="迎春" target="薛姨妈" id="344" weight="21.0" />
+      <edge source="迎春" target="薛宝钗" id="345" weight="45.0" />
+      <edge source="迎春" target="邢夫人" id="350" weight="19.0" />
+      <edge source="贾琏" target="王熙凤" id="360" weight="115.0" />
+      <edge source="贾琏" target="贾母" id="361" weight="106.0" />
+      <edge source="贾琏" target="薛姨妈" id="363" weight="17.0" />
+      <edge source="贾琏" target="王夫人" id="364" weight="70.0" />
+      <edge source="贾琏" target="平儿" id="366" weight="60.0" />
+      <edge source="贾琏" target="周瑞" id="367" weight="15.0" />
+      <edge source="贾琏" target="赖大" id="372" weight="19.0" />
+      <edge source="贾琏" target="尤氏" id="373" weight="26.0" />
+      <edge source="贾琏" target="邢夫人" id="375" weight="35.0" />
+      <edge source="贾琏" target="薛宝钗" id="376" weight="25.0" />
+      <edge source="贾琏" target="贾芸" id="380" weight="15.0" />
+      <edge source="贾琏" target="尤二姐" id="389" weight="22.0" />
+      <edge source="贾母" target="王熙凤" id="406" weight="315.0" />
+      <edge source="贾母" target="王夫人" id="407" weight="284.0" />
+      <edge source="贾母" target="邢夫人" id="408" weight="99.0" />
+      <edge source="贾母" target="李纨" id="409" weight="16.0" />
+      <edge source="贾母" target="雪雁" id="411" weight="24.0" />
+      <edge source="贾母" target="薛蟠" id="412" weight="26.0" />
+      <edge source="贾母" target="薛姨妈" id="413" weight="123.0" />
+      <edge source="贾母" target="薛宝钗" id="414" weight="184.0" />
+      <edge source="贾母" target="尤氏" id="415" weight="78.0" />
+      <edge source="贾母" target="周瑞家的" id="417" weight="23.0" />
+      <edge source="贾母" target="周瑞" id="418" weight="32.0" />
+      <edge source="贾母" target="平儿" id="419" weight="92.0" />
+      <edge source="贾母" target="贾兰" id="432" weight="31.0" />
+      <edge source="贾母" target="贾芸" id="433" weight="20.0" />
+      <edge source="贾母" target="赖大" id="434" weight="18.0" />
+      <edge source="贾母" target="贾元春" id="435" weight="18.0" />
+      <edge source="贾母" target="贾环" id="436" weight="25.0" />
+      <edge source="贾母" target="秋纹" id="437" weight="30.0" />
+      <edge source="贾母" target="史湘云" id="438" weight="37.0" />
+      <edge source="贾母" target="巧姐" id="444" weight="17.0" />
+      <edge source="贾母" target="紫鹃" id="445" weight="55.0" />
+      <edge source="贾母" target="林之孝" id="446" weight="24.0" />
+      <edge source="贾母" target="薛宝琴" id="454" weight="33.0" />
+      <edge source="贾母" target="尤二姐" id="458" weight="19.0" />
+      <edge source="王熙凤" target="王夫人" id="469" weight="222.0" />
+      <edge source="王熙凤" target="李纨" id="470" weight="21.0" />
+      <edge source="王熙凤" target="周瑞家的" id="472" weight="34.0" />
+      <edge source="王熙凤" target="平儿" id="473" weight="144.0" />
+      <edge source="王熙凤" target="周瑞" id="474" weight="43.0" />
+      <edge source="王熙凤" target="尤氏" id="475" weight="79.0" />
+      <edge source="王熙凤" target="秦可卿" id="476" weight="22.0" />
+      <edge source="王熙凤" target="邢夫人" id="478" weight="82.0" />
+      <edge source="王熙凤" target="旺儿" id="482" weight="23.0" />
+      <edge source="王熙凤" target="薛姨妈" id="485" weight="78.0" />
+      <edge source="王熙凤" target="赖大" id="486" weight="15.0" />
+      <edge source="王熙凤" target="薛宝钗" id="488" weight="128.0" />
+      <edge source="王熙凤" target="贾环" id="490" weight="19.0" />
+      <edge source="王熙凤" target="史湘云" id="492" weight="20.0" />
+      <edge source="王熙凤" target="紫鹃" id="494" weight="23.0" />
+      <edge source="王熙凤" target="贾芸" id="495" weight="20.0" />
+      <edge source="王熙凤" target="巧姐" id="502" weight="22.0" />
+      <edge source="王熙凤" target="林之孝" id="504" weight="24.0" />
+      <edge source="王熙凤" target="薛宝琴" id="508" weight="26.0" />
+      <edge source="王熙凤" target="尤二姐" id="513" weight="24.0" />
+      <edge source="王夫人" target="邢夫人" id="522" weight="99.0" />
+      <edge source="王夫人" target="薛蟠" id="524" weight="23.0" />
+      <edge source="王夫人" target="薛姨妈" id="525" weight="97.0" />
+      <edge source="王夫人" target="薛宝钗" id="526" weight="153.0" />
+      <edge source="王夫人" target="尤氏" id="527" weight="57.0" />
+      <edge source="王夫人" target="金钏" id="528" weight="17.0" />
+      <edge source="王夫人" target="周瑞家的" id="529" weight="20.0" />
+      <edge source="王夫人" target="周瑞" id="530" weight="22.0" />
+      <edge source="王夫人" target="平儿" id="539" weight="53.0" />
+      <edge source="王夫人" target="赖大" id="542" weight="16.0" />
+      <edge source="王夫人" target="贾元春" id="545" weight="15.0" />
+      <edge source="王夫人" target="贾环" id="546" weight="36.0" />
+      <edge source="王夫人" target="贾兰" id="547" weight="24.0" />
+      <edge source="王夫人" target="史湘云" id="548" weight="15.0" />
+      <edge source="王夫人" target="巧姐" id="555" weight="26.0" />
+      <edge source="王夫人" target="紫鹃" id="557" weight="27.0" />
+      <edge source="王夫人" target="薛宝琴" id="558" weight="16.0" />
+      <edge source="邢夫人" target="尤氏" id="567" weight="40.0" />
+      <edge source="邢夫人" target="薛姨妈" id="570" weight="25.0" />
+      <edge source="邢夫人" target="薛宝钗" id="574" weight="32.0" />
+      <edge source="邢夫人" target="贾环" id="575" weight="16.0" />
+      <edge source="邢夫人" target="平儿" id="582" weight="33.0" />
+      <edge source="邢夫人" target="巧姐" id="596" weight="17.0" />
+      <edge source="雪雁" target="紫鹃" id="610" weight="41.0" />
+      <edge source="薛蟠" target="薛宝钗" id="615" weight="32.0" />
+      <edge source="薛蟠" target="薛姨妈" id="616" weight="34.0" />
+      <edge source="贾兰" target="贾环" id="637" weight="27.0" />
+      <edge source="贾兰" target="薛宝钗" id="638" weight="20.0" />
+      <edge source="薛宝钗" target="薛姨妈" id="648" weight="105.0" />
+      <edge source="薛宝钗" target="紫鹃" id="652" weight="33.0" />
+      <edge source="薛宝钗" target="尤氏" id="655" weight="27.0" />
+      <edge source="薛宝钗" target="贾环" id="656" weight="17.0" />
+      <edge source="薛宝钗" target="史湘云" id="657" weight="36.0" />
+      <edge source="薛宝钗" target="平儿" id="662" weight="44.0" />
+      <edge source="薛宝钗" target="薛宝琴" id="669" weight="48.0" />
+      <edge source="薛宝钗" target="夏金桂" id="673" weight="15.0" />
+      <edge source="薛姨妈" target="尤氏" id="680" weight="18.0" />
+      <edge source="薛姨妈" target="史湘云" id="685" weight="19.0" />
+      <edge source="薛姨妈" target="薛宝琴" id="695" weight="21.0" />
+      <edge source="尤氏" target="平儿" id="702" weight="20.0" />
+      <edge source="尤氏" target="薛宝琴" id="715" weight="15.0" />
+      <edge source="周瑞" target="周瑞家的" id="728" weight="59.0" />
+      <edge source="周瑞" target="平儿" id="729" weight="22.0" />
+      <edge source="周瑞家的" target="平儿" id="740" weight="20.0" />
+      <edge source="平儿" target="巧姐" id="754" weight="27.0" />
+    </edges>
+  </graph>
+</gexf>

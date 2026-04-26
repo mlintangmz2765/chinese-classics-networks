@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2026-04-25">
+  <meta lastmodifieddate="2026-04-26">
     <creator>NetworkX 3.6.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -25,7 +25,7 @@
       </node>
       <node id="关羽" label="关羽">
         <attvalues>
-          <attvalue for="0" value="329" />
+          <attvalue for="0" value="331" />
         </attvalues>
       </node>
       <node id="曹操" label="曹操">
@@ -178,14 +178,14 @@
           <attvalue for="0" value="237" />
         </attvalues>
       </node>
-      <node id="张鲁" label="张鲁">
-        <attvalues>
-          <attvalue for="0" value="44" />
-        </attvalues>
-      </node>
       <node id="刘璋" label="刘璋">
         <attvalues>
           <attvalue for="0" value="57" />
+        </attvalues>
+      </node>
+      <node id="张鲁" label="张鲁">
+        <attvalues>
+          <attvalue for="0" value="44" />
         </attvalues>
       </node>
       <node id="糜芳" label="糜芳">
@@ -208,14 +208,14 @@
           <attvalue for="0" value="20" />
         </attvalues>
       </node>
-      <node id="庞统" label="庞统">
-        <attvalues>
-          <attvalue for="0" value="50" />
-        </attvalues>
-      </node>
       <node id="庞德" label="庞德">
         <attvalues>
           <attvalue for="0" value="45" />
+        </attvalues>
+      </node>
+      <node id="庞统" label="庞统">
+        <attvalues>
+          <attvalue for="0" value="50" />
         </attvalues>
       </node>
       <node id="刘封" label="刘封">
@@ -243,14 +243,14 @@
           <attvalue for="0" value="56" />
         </attvalues>
       </node>
-      <node id="潘璋" label="潘璋">
-        <attvalues>
-          <attvalue for="0" value="23" />
-        </attvalues>
-      </node>
       <node id="徐盛" label="徐盛">
         <attvalues>
           <attvalue for="0" value="41" />
+        </attvalues>
+      </node>
+      <node id="潘璋" label="潘璋">
+        <attvalues>
+          <attvalue for="0" value="23" />
         </attvalues>
       </node>
       <node id="司马懿" label="司马懿">
@@ -362,22 +362,22 @@
     <edges>
       <edge source="刘备" target="公孙瓒" id="0" weight="19" />
       <edge source="刘备" target="张飞" id="1" weight="124" />
-      <edge source="刘备" target="关羽" id="2" weight="162" />
+      <edge source="刘备" target="关羽" id="2" weight="163" />
       <edge source="刘备" target="董卓" id="3" weight="14" />
       <edge source="刘备" target="曹操" id="4" weight="207" />
       <edge source="刘备" target="孙坚" id="5" weight="3" />
       <edge source="刘备" target="袁绍" id="6" weight="50" />
       <edge source="刘备" target="袁术" id="7" weight="25" />
       <edge source="刘备" target="吕布" id="8" weight="63" />
-      <edge source="刘备" target="程普" id="9" weight="7" />
-      <edge source="刘备" target="黄盖" id="10" weight="3" />
+      <edge source="刘备" target="黄盖" id="9" weight="3" />
+      <edge source="刘备" target="程普" id="10" weight="7" />
       <edge source="刘备" target="张翼" id="11" weight="9" />
       <edge source="刘备" target="赵云" id="12" weight="108" />
       <edge source="刘备" target="太史慈" id="13" weight="3" />
       <edge source="刘备" target="糜竺" id="14" weight="35" />
-      <edge source="刘备" target="陈宫" id="15" weight="12" />
-      <edge source="刘备" target="程昱" id="16" weight="15" />
-      <edge source="刘备" target="曹仁" id="17" weight="24" />
+      <edge source="刘备" target="程昱" id="15" weight="15" />
+      <edge source="刘备" target="曹仁" id="16" weight="24" />
+      <edge source="刘备" target="陈宫" id="17" weight="12" />
       <edge source="刘备" target="孙乾" id="18" weight="59" />
       <edge source="刘备" target="许褚" id="19" weight="15" />
       <edge source="刘备" target="孙策" id="20" weight="9" />
@@ -388,13 +388,13 @@
       <edge source="刘备" target="糜芳" id="25" weight="17" />
       <edge source="刘备" target="李典" id="26" weight="14" />
       <edge source="刘备" target="徐晃" id="27" weight="10" />
-      <edge source="刘备" target="张鲁" id="28" weight="21" />
-      <edge source="刘备" target="刘璋" id="29" weight="43" />
+      <edge source="刘备" target="刘璋" id="28" weight="43" />
+      <edge source="刘备" target="张鲁" id="29" weight="21" />
       <edge source="刘备" target="蔡瑁" id="30" weight="23" />
       <edge source="刘备" target="孙权" id="31" weight="88" />
       <edge source="刘备" target="刘禅" id="32" weight="7" />
-      <edge source="刘备" target="庞统" id="33" weight="38" />
-      <edge source="刘备" target="庞德" id="34" weight="3" />
+      <edge source="刘备" target="庞德" id="33" weight="3" />
+      <edge source="刘备" target="庞统" id="34" weight="38" />
       <edge source="刘备" target="刘封" id="35" weight="31" />
       <edge source="刘备" target="诸葛亮" id="36" weight="208" />
       <edge source="刘备" target="诸葛瑾" id="37" weight="8" />
@@ -415,14 +415,14 @@
       <edge source="刘备" target="曹丕" id="52" weight="12" />
       <edge source="刘备" target="陆逊" id="53" weight="8" />
       <edge source="刘备" target="曹真" id="54" weight="3" />
-      <edge source="公孙瓒" target="关羽" id="55" weight="5" />
-      <edge source="公孙瓒" target="董卓" id="56" weight="6" />
+      <edge source="公孙瓒" target="董卓" id="55" weight="6" />
+      <edge source="公孙瓒" target="关羽" id="56" weight="5" />
       <edge source="公孙瓒" target="张飞" id="57" weight="5" />
-      <edge source="公孙瓒" target="曹操" id="58" weight="9" />
-      <edge source="公孙瓒" target="袁绍" id="59" weight="14" />
+      <edge source="公孙瓒" target="袁绍" id="58" weight="14" />
+      <edge source="公孙瓒" target="曹操" id="59" weight="9" />
       <edge source="公孙瓒" target="吕布" id="60" weight="5" />
       <edge source="公孙瓒" target="赵云" id="61" weight="7" />
-      <edge source="张飞" target="关羽" id="62" weight="75" />
+      <edge source="张飞" target="关羽" id="62" weight="76" />
       <edge source="张飞" target="董卓" id="63" weight="9" />
       <edge source="张飞" target="曹操" id="64" weight="39" />
       <edge source="张飞" target="袁术" id="65" weight="4" />
@@ -439,15 +439,15 @@
       <edge source="张飞" target="李典" id="76" weight="5" />
       <edge source="张飞" target="许褚" id="77" weight="10" />
       <edge source="张飞" target="徐晃" id="78" weight="3" />
-      <edge source="张飞" target="张鲁" id="79" weight="3" />
-      <edge source="张飞" target="孙权" id="80" weight="7" />
+      <edge source="张飞" target="孙权" id="79" weight="7" />
+      <edge source="张飞" target="张鲁" id="80" weight="3" />
       <edge source="张飞" target="诸葛亮" id="81" weight="56" />
       <edge source="张飞" target="刘表" id="82" weight="3" />
       <edge source="张飞" target="刘封" id="83" weight="8" />
       <edge source="张飞" target="魏延" id="84" weight="18" />
       <edge source="张飞" target="周瑜" id="85" weight="5" />
-      <edge source="张飞" target="黄忠" id="86" weight="11" />
-      <edge source="张飞" target="刘璋" id="87" weight="5" />
+      <edge source="张飞" target="刘璋" id="86" weight="5" />
+      <edge source="张飞" target="黄忠" id="87" weight="11" />
       <edge source="张飞" target="庞统" id="88" weight="3" />
       <edge source="张飞" target="严颜" id="89" weight="17" />
       <edge source="张飞" target="曹洪" id="90" weight="5" />
@@ -456,9 +456,9 @@
       <edge source="关羽" target="曹操" id="93" weight="108" />
       <edge source="关羽" target="袁术" id="94" weight="3" />
       <edge source="关羽" target="袁绍" id="95" weight="28" />
-      <edge source="关羽" target="吕布" id="96" weight="14" />
+      <edge source="关羽" target="吕布" id="96" weight="15" />
       <edge source="关羽" target="张翼" id="97" weight="7" />
-      <edge source="关羽" target="赵云" id="98" weight="36" />
+      <edge source="关羽" target="赵云" id="98" weight="37" />
       <edge source="关羽" target="糜竺" id="99" weight="11" />
       <edge source="关羽" target="孙乾" id="100" weight="32" />
       <edge source="关羽" target="张辽" id="101" weight="24" />
@@ -472,13 +472,13 @@
       <edge source="关羽" target="孙权" id="109" weight="34" />
       <edge source="关羽" target="曹仁" id="110" weight="19" />
       <edge source="关羽" target="刘封" id="111" weight="16" />
-      <edge source="关羽" target="诸葛亮" id="112" weight="71" />
-      <edge source="关羽" target="周瑜" id="113" weight="16" />
+      <edge source="关羽" target="诸葛亮" id="112" weight="72" />
+      <edge source="关羽" target="周瑜" id="113" weight="17" />
       <edge source="关羽" target="鲁肃" id="114" weight="12" />
-      <edge source="关羽" target="黄忠" id="115" weight="17" />
-      <edge source="关羽" target="魏延" id="116" weight="11" />
-      <edge source="关羽" target="徐盛" id="117" weight="3" />
-      <edge source="关羽" target="刘璋" id="118" weight="3" />
+      <edge source="关羽" target="黄忠" id="115" weight="18" />
+      <edge source="关羽" target="魏延" id="116" weight="12" />
+      <edge source="关羽" target="刘璋" id="117" weight="3" />
+      <edge source="关羽" target="徐盛" id="118" weight="3" />
       <edge source="关羽" target="孟达" id="119" weight="11" />
       <edge source="关羽" target="吕蒙" id="120" weight="28" />
       <edge source="关羽" target="诸葛瑾" id="121" weight="5" />
@@ -495,8 +495,8 @@
       <edge source="曹操" target="袁术" id="132" weight="24" />
       <edge source="曹操" target="吕布" id="133" weight="48" />
       <edge source="曹操" target="陈宫" id="134" weight="17" />
-      <edge source="曹操" target="曹洪" id="135" weight="29" />
-      <edge source="曹操" target="李典" id="136" weight="25" />
+      <edge source="曹操" target="李典" id="135" weight="25" />
+      <edge source="曹操" target="曹洪" id="136" weight="29" />
       <edge source="曹操" target="曹仁" id="137" weight="35" />
       <edge source="曹操" target="贾诩" id="138" weight="21" />
       <edge source="曹操" target="程昱" id="139" weight="22" />
@@ -558,16 +558,16 @@
       <edge source="袁绍" target="吕布" id="195" weight="19" />
       <edge source="袁绍" target="程普" id="196" weight="5" />
       <edge source="袁绍" target="黄盖" id="197" weight="4" />
-      <edge source="袁绍" target="曹洪" id="198" weight="9" />
-      <edge source="袁绍" target="李典" id="199" weight="7" />
+      <edge source="袁绍" target="李典" id="198" weight="7" />
+      <edge source="袁绍" target="曹洪" id="199" weight="9" />
       <edge source="袁绍" target="曹仁" id="200" weight="4" />
       <edge source="袁绍" target="刘表" id="201" weight="24" />
       <edge source="袁绍" target="蔡瑁" id="202" weight="3" />
       <edge source="袁绍" target="赵云" id="203" weight="7" />
       <edge source="袁绍" target="程昱" id="204" weight="8" />
       <edge source="袁绍" target="陈宫" id="205" weight="4" />
-      <edge source="袁绍" target="孙策" id="206" weight="3" />
-      <edge source="袁绍" target="刘璋" id="207" weight="3" />
+      <edge source="袁绍" target="刘璋" id="206" weight="3" />
+      <edge source="袁绍" target="孙策" id="207" weight="3" />
       <edge source="袁绍" target="贾诩" id="208" weight="3" />
       <edge source="袁绍" target="孙乾" id="209" weight="12" />
       <edge source="袁绍" target="张辽" id="210" weight="13" />
@@ -586,8 +586,8 @@
       <edge source="袁术" target="张辽" id="223" weight="3" />
       <edge source="袁术" target="诸葛亮" id="224" weight="4" />
       <edge source="吕布" target="曹仁" id="225" weight="8" />
-      <edge source="吕布" target="陈宫" id="226" weight="31" />
-      <edge source="吕布" target="程昱" id="227" weight="6" />
+      <edge source="吕布" target="程昱" id="226" weight="6" />
+      <edge source="吕布" target="陈宫" id="227" weight="31" />
       <edge source="吕布" target="张辽" id="228" weight="16" />
       <edge source="吕布" target="李典" id="229" weight="6" />
       <edge source="吕布" target="曹洪" id="230" weight="4" />
@@ -612,8 +612,8 @@
       <edge source="曹仁" target="贾诩" id="249" weight="5" />
       <edge source="曹仁" target="赵云" id="250" weight="8" />
       <edge source="曹仁" target="刘封" id="251" weight="4" />
-      <edge source="曹仁" target="诸葛亮" id="252" weight="12" />
-      <edge source="曹仁" target="孙权" id="253" weight="5" />
+      <edge source="曹仁" target="孙权" id="252" weight="5" />
+      <edge source="曹仁" target="诸葛亮" id="253" weight="12" />
       <edge source="曹仁" target="糜芳" id="254" weight="4" />
       <edge source="曹仁" target="周瑜" id="255" weight="12" />
       <edge source="曹仁" target="徐盛" id="256" weight="3" />
@@ -621,8 +621,8 @@
       <edge source="曹仁" target="程普" id="258" weight="7" />
       <edge source="曹仁" target="庞德" id="259" weight="4" />
       <edge source="曹仁" target="韩遂" id="260" weight="3" />
-      <edge source="曹仁" target="陆逊" id="261" weight="4" />
-      <edge source="曹仁" target="曹休" id="262" weight="5" />
+      <edge source="曹仁" target="曹休" id="261" weight="5" />
+      <edge source="曹仁" target="陆逊" id="262" weight="4" />
       <edge source="曹仁" target="曹真" id="263" weight="5" />
       <edge source="曹仁" target="曹丕" id="264" weight="4" />
       <edge source="曹洪" target="李典" id="265" weight="10" />
@@ -654,8 +654,8 @@
       <edge source="黄盖" target="周瑜" id="291" weight="17" />
       <edge source="黄盖" target="太史慈" id="292" weight="3" />
       <edge source="黄盖" target="诸葛亮" id="293" weight="7" />
-      <edge source="黄盖" target="鲁肃" id="294" weight="4" />
-      <edge source="黄盖" target="孙权" id="295" weight="6" />
+      <edge source="黄盖" target="孙权" id="294" weight="6" />
+      <edge source="黄盖" target="鲁肃" id="295" weight="4" />
       <edge source="黄盖" target="徐盛" id="296" weight="3" />
       <edge source="李典" target="许褚" id="297" weight="18" />
       <edge source="李典" target="程昱" id="298" weight="5" />
@@ -670,8 +670,8 @@
       <edge source="刘表" target="黄祖" id="307" weight="12" />
       <edge source="刘表" target="孙策" id="308" weight="9" />
       <edge source="刘表" target="贾诩" id="309" weight="7" />
-      <edge source="刘表" target="张鲁" id="310" weight="3" />
-      <edge source="刘表" target="刘璋" id="311" weight="4" />
+      <edge source="刘表" target="刘璋" id="310" weight="4" />
+      <edge source="刘表" target="张鲁" id="311" weight="3" />
       <edge source="刘表" target="孙权" id="312" weight="11" />
       <edge source="刘表" target="孙乾" id="313" weight="6" />
       <edge source="刘表" target="赵云" id="314" weight="4" />
@@ -688,8 +688,8 @@
       <edge source="赵云" target="糜芳" id="325" weight="10" />
       <edge source="赵云" target="孙乾" id="326" weight="13" />
       <edge source="赵云" target="许褚" id="327" weight="4" />
-      <edge source="赵云" target="张鲁" id="328" weight="5" />
-      <edge source="赵云" target="孙权" id="329" weight="16" />
+      <edge source="赵云" target="孙权" id="328" weight="16" />
+      <edge source="赵云" target="张鲁" id="329" weight="5" />
       <edge source="赵云" target="刘封" id="330" weight="14" />
       <edge source="赵云" target="诸葛亮" id="331" weight="101" />
       <edge source="赵云" target="刘禅" id="332" weight="14" />
@@ -697,9 +697,9 @@
       <edge source="赵云" target="徐盛" id="334" weight="7" />
       <edge source="赵云" target="鲁肃" id="335" weight="4" />
       <edge source="赵云" target="徐晃" id="336" weight="10" />
-      <edge source="赵云" target="黄忠" id="337" weight="25" />
-      <edge source="赵云" target="魏延" id="338" weight="42" />
-      <edge source="赵云" target="刘璋" id="339" weight="9" />
+      <edge source="赵云" target="刘璋" id="337" weight="9" />
+      <edge source="赵云" target="黄忠" id="338" weight="25" />
+      <edge source="赵云" target="魏延" id="339" weight="42" />
       <edge source="赵云" target="严颜" id="340" weight="8" />
       <edge source="赵云" target="孟达" id="341" weight="10" />
       <edge source="赵云" target="邓芝" id="342" weight="12" />
@@ -712,18 +712,18 @@
       <edge source="赵云" target="姜维" id="349" weight="7" />
       <edge source="赵云" target="郭淮" id="350" weight="3" />
       <edge source="张翼" target="诸葛亮" id="351" weight="43" />
-      <edge source="张翼" target="魏延" id="352" weight="23" />
-      <edge source="张翼" target="黄忠" id="353" weight="7" />
+      <edge source="张翼" target="黄忠" id="352" weight="7" />
+      <edge source="张翼" target="魏延" id="353" weight="23" />
       <edge source="张翼" target="刘璋" id="354" weight="3" />
       <edge source="张翼" target="严颜" id="355" weight="3" />
       <edge source="张翼" target="廖化" id="356" weight="28" />
       <edge source="张翼" target="邓芝" id="357" weight="3" />
       <edge source="张翼" target="王平" id="358" weight="23" />
-      <edge source="张翼" target="马忠" id="359" weight="13" />
-      <edge source="张翼" target="张嶷" id="360" weight="17" />
+      <edge source="张翼" target="张嶷" id="359" weight="17" />
+      <edge source="张翼" target="马忠" id="360" weight="13" />
       <edge source="张翼" target="孟获" id="361" weight="6" />
-      <edge source="张翼" target="杨仪" id="362" weight="3" />
-      <edge source="张翼" target="张苞" id="363" weight="7" />
+      <edge source="张翼" target="张苞" id="362" weight="7" />
+      <edge source="张翼" target="杨仪" id="363" weight="3" />
       <edge source="张翼" target="姜维" id="364" weight="34" />
       <edge source="张翼" target="曹真" id="365" weight="4" />
       <edge source="张翼" target="郭淮" id="366" weight="3" />
@@ -741,15 +741,15 @@
       <edge source="孙策" target="张昭" id="378" weight="4" />
       <edge source="孙策" target="孙权" id="379" weight="7" />
       <edge source="孙策" target="吕蒙" id="380" weight="3" />
-      <edge source="孙策" target="诸葛亮" id="381" weight="3" />
-      <edge source="孙策" target="鲁肃" id="382" weight="3" />
+      <edge source="孙策" target="鲁肃" id="381" weight="3" />
+      <edge source="孙策" target="诸葛亮" id="382" weight="3" />
       <edge source="贾诩" target="韩遂" id="383" weight="6" />
       <edge source="贾诩" target="许褚" id="384" weight="5" />
       <edge source="贾诩" target="徐晃" id="385" weight="5" />
       <edge source="贾诩" target="庞德" id="386" weight="3" />
       <edge source="贾诩" target="曹丕" id="387" weight="11" />
-      <edge source="贾诩" target="司马懿" id="388" weight="3" />
-      <edge source="贾诩" target="孙权" id="389" weight="3" />
+      <edge source="贾诩" target="孙权" id="388" weight="3" />
+      <edge source="贾诩" target="司马懿" id="389" weight="3" />
       <edge source="贾诩" target="曹休" id="390" weight="3" />
       <edge source="贾诩" target="曹真" id="391" weight="3" />
       <edge source="贾诩" target="诸葛亮" id="392" weight="3" />
@@ -773,8 +773,8 @@
       <edge source="张辽" target="孙乾" id="410" weight="3" />
       <edge source="张辽" target="许褚" id="411" weight="25" />
       <edge source="张辽" target="徐晃" id="412" weight="26" />
-      <edge source="张辽" target="诸葛亮" id="413" weight="6" />
-      <edge source="张辽" target="孙权" id="414" weight="15" />
+      <edge source="张辽" target="孙权" id="413" weight="15" />
+      <edge source="张辽" target="诸葛亮" id="414" weight="6" />
       <edge source="张辽" target="吕蒙" id="415" weight="6" />
       <edge source="张辽" target="徐盛" id="416" weight="4" />
       <edge source="张辽" target="曹真" id="417" weight="3" />
@@ -784,18 +784,18 @@
       <edge source="孙乾" target="孙权" id="421" weight="6" />
       <edge source="许褚" target="徐晃" id="422" weight="28" />
       <edge source="许褚" target="糜芳" id="423" weight="3" />
-      <edge source="许褚" target="诸葛亮" id="424" weight="6" />
-      <edge source="许褚" target="孙权" id="425" weight="4" />
+      <edge source="许褚" target="孙权" id="424" weight="4" />
+      <edge source="许褚" target="诸葛亮" id="425" weight="6" />
       <edge source="许褚" target="刘封" id="426" weight="3" />
       <edge source="许褚" target="庞德" id="427" weight="7" />
       <edge source="许褚" target="张鲁" id="428" weight="3" />
-      <edge source="徐晃" target="吕蒙" id="429" weight="4" />
-      <edge source="徐晃" target="孙权" id="430" weight="3" />
+      <edge source="徐晃" target="孙权" id="429" weight="3" />
+      <edge source="徐晃" target="吕蒙" id="430" weight="4" />
       <edge source="徐晃" target="庞德" id="431" weight="8" />
       <edge source="徐晃" target="徐盛" id="432" weight="3" />
       <edge source="徐晃" target="孟达" id="433" weight="8" />
-      <edge source="徐晃" target="刘封" id="434" weight="6" />
-      <edge source="徐晃" target="黄忠" id="435" weight="8" />
+      <edge source="徐晃" target="黄忠" id="434" weight="8" />
+      <edge source="徐晃" target="刘封" id="435" weight="6" />
       <edge source="徐晃" target="诸葛亮" id="436" weight="5" />
       <edge source="徐晃" target="王平" id="437" weight="3" />
       <edge source="徐晃" target="司马懿" id="438" weight="5" />
@@ -804,15 +804,15 @@
       <edge source="周瑜" target="张昭" id="441" weight="11" />
       <edge source="周瑜" target="孙权" id="442" weight="47" />
       <edge source="周瑜" target="吕蒙" id="443" weight="10" />
-      <edge source="周瑜" target="诸葛亮" id="444" weight="73" />
-      <edge source="周瑜" target="鲁肃" id="445" weight="56" />
+      <edge source="周瑜" target="鲁肃" id="444" weight="56" />
+      <edge source="周瑜" target="诸葛亮" id="445" weight="73" />
       <edge source="周瑜" target="诸葛瑾" id="446" weight="3" />
       <edge source="周瑜" target="庞统" id="447" weight="8" />
       <edge source="周瑜" target="徐盛" id="448" weight="13" />
       <edge source="周瑜" target="潘璋" id="449" weight="3" />
       <edge source="周瑜" target="刘璋" id="450" weight="3" />
-      <edge source="周瑜" target="魏延" id="451" weight="3" />
-      <edge source="周瑜" target="黄忠" id="452" weight="3" />
+      <edge source="周瑜" target="黄忠" id="451" weight="3" />
+      <edge source="周瑜" target="魏延" id="452" weight="3" />
       <edge source="周瑜" target="陆逊" id="453" weight="3" />
       <edge source="张昭" target="孙权" id="454" weight="29" />
       <edge source="张昭" target="吕蒙" id="455" weight="3" />
@@ -822,16 +822,16 @@
       <edge source="张昭" target="诸葛瑾" id="459" weight="3" />
       <edge source="孙权" target="曹丕" id="460" weight="18" />
       <edge source="孙权" target="张鲁" id="461" weight="5" />
-      <edge source="孙权" target="诸葛亮" id="462" weight="77" />
-      <edge source="孙权" target="刘璋" id="463" weight="7" />
+      <edge source="孙权" target="刘璋" id="462" weight="7" />
+      <edge source="孙权" target="诸葛亮" id="463" weight="77" />
       <edge source="孙权" target="吕蒙" id="464" weight="37" />
       <edge source="孙权" target="陆逊" id="465" weight="21" />
-      <edge source="孙权" target="潘璋" id="466" weight="12" />
-      <edge source="孙权" target="徐盛" id="467" weight="14" />
+      <edge source="孙权" target="徐盛" id="466" weight="14" />
+      <edge source="孙权" target="潘璋" id="467" weight="12" />
       <edge source="孙权" target="鲁肃" id="468" weight="42" />
       <edge source="孙权" target="诸葛瑾" id="469" weight="18" />
-      <edge source="孙权" target="魏延" id="470" weight="5" />
-      <edge source="孙权" target="黄忠" id="471" weight="3" />
+      <edge source="孙权" target="黄忠" id="470" weight="3" />
+      <edge source="孙权" target="魏延" id="471" weight="5" />
       <edge source="孙权" target="庞统" id="472" weight="6" />
       <edge source="孙权" target="孟达" id="473" weight="7" />
       <edge source="孙权" target="曹休" id="474" weight="4" />
@@ -842,33 +842,33 @@
       <edge source="孙权" target="张苞" id="479" weight="5" />
       <edge source="孙权" target="曹真" id="480" weight="9" />
       <edge source="孙权" target="孟获" id="481" weight="7" />
-      <edge source="张鲁" target="刘璋" id="482" weight="19" />
-      <edge source="张鲁" target="诸葛亮" id="483" weight="6" />
-      <edge source="张鲁" target="孟达" id="484" weight="3" />
-      <edge source="张鲁" target="黄忠" id="485" weight="3" />
-      <edge source="张鲁" target="庞统" id="486" weight="4" />
-      <edge source="张鲁" target="庞德" id="487" weight="8" />
-      <edge source="刘璋" target="诸葛亮" id="488" weight="18" />
-      <edge source="刘璋" target="黄忠" id="489" weight="7" />
-      <edge source="刘璋" target="魏延" id="490" weight="7" />
-      <edge source="刘璋" target="孟达" id="491" weight="5" />
-      <edge source="刘璋" target="庞统" id="492" weight="8" />
-      <edge source="刘璋" target="严颜" id="493" weight="3" />
+      <edge source="刘璋" target="张鲁" id="482" weight="19" />
+      <edge source="刘璋" target="诸葛亮" id="483" weight="18" />
+      <edge source="刘璋" target="黄忠" id="484" weight="7" />
+      <edge source="刘璋" target="魏延" id="485" weight="7" />
+      <edge source="刘璋" target="孟达" id="486" weight="5" />
+      <edge source="刘璋" target="庞统" id="487" weight="8" />
+      <edge source="刘璋" target="严颜" id="488" weight="3" />
+      <edge source="张鲁" target="诸葛亮" id="489" weight="6" />
+      <edge source="张鲁" target="孟达" id="490" weight="3" />
+      <edge source="张鲁" target="庞统" id="491" weight="4" />
+      <edge source="张鲁" target="黄忠" id="492" weight="3" />
+      <edge source="张鲁" target="庞德" id="493" weight="8" />
       <edge source="糜芳" target="诸葛亮" id="494" weight="7" />
       <edge source="糜芳" target="刘封" id="495" weight="7" />
       <edge source="糜芳" target="廖化" id="496" weight="3" />
       <edge source="糜芳" target="吕蒙" id="497" weight="8" />
-      <edge source="糜芳" target="潘璋" id="498" weight="3" />
-      <edge source="糜芳" target="马忠" id="499" weight="5" />
+      <edge source="糜芳" target="马忠" id="498" weight="5" />
+      <edge source="糜芳" target="潘璋" id="499" weight="3" />
       <edge source="廖化" target="孟达" id="500" weight="7" />
       <edge source="廖化" target="诸葛亮" id="501" weight="19" />
-      <edge source="廖化" target="刘封" id="502" weight="6" />
-      <edge source="廖化" target="邓芝" id="503" weight="3" />
+      <edge source="廖化" target="邓芝" id="502" weight="3" />
+      <edge source="廖化" target="刘封" id="503" weight="6" />
       <edge source="廖化" target="魏延" id="504" weight="9" />
       <edge source="廖化" target="吕蒙" id="505" weight="3" />
-      <edge source="廖化" target="马忠" id="506" weight="8" />
-      <edge source="廖化" target="王平" id="507" weight="10" />
-      <edge source="廖化" target="张嶷" id="508" weight="10" />
+      <edge source="廖化" target="王平" id="506" weight="10" />
+      <edge source="廖化" target="张嶷" id="507" weight="10" />
+      <edge source="廖化" target="马忠" id="508" weight="8" />
       <edge source="廖化" target="姜维" id="509" weight="23" />
       <edge source="廖化" target="曹真" id="510" weight="4" />
       <edge source="廖化" target="司马懿" id="511" weight="8" />
@@ -880,8 +880,8 @@
       <edge source="曹丕" target="刘封" id="517" weight="3" />
       <edge source="曹丕" target="诸葛亮" id="518" weight="23" />
       <edge source="曹丕" target="诸葛瑾" id="519" weight="5" />
-      <edge source="曹丕" target="陆逊" id="520" weight="5" />
-      <edge source="曹丕" target="曹休" id="521" weight="3" />
+      <edge source="曹丕" target="曹休" id="520" weight="3" />
+      <edge source="曹丕" target="陆逊" id="521" weight="5" />
       <edge source="曹丕" target="曹真" id="522" weight="7" />
       <edge source="曹丕" target="孟获" id="523" weight="4" />
       <edge source="曹丕" target="徐盛" id="524" weight="4" />
@@ -891,10 +891,10 @@
       <edge source="庞统" target="魏延" id="528" weight="13" />
       <edge source="庞统" target="刘封" id="529" weight="4" />
       <edge source="刘封" target="诸葛亮" id="530" weight="20" />
-      <edge source="刘封" target="魏延" id="531" weight="7" />
-      <edge source="刘封" target="黄忠" id="532" weight="13" />
-      <edge source="刘封" target="孟达" id="533" weight="20" />
-      <edge source="刘封" target="严颜" id="534" weight="3" />
+      <edge source="刘封" target="黄忠" id="531" weight="13" />
+      <edge source="刘封" target="魏延" id="532" weight="7" />
+      <edge source="刘封" target="严颜" id="533" weight="3" />
+      <edge source="刘封" target="孟达" id="534" weight="20" />
       <edge source="诸葛亮" target="诸葛瑾" id="535" weight="27" />
       <edge source="诸葛亮" target="魏延" id="536" weight="104" />
       <edge source="诸葛亮" target="鲁肃" id="537" weight="68" />
@@ -911,8 +911,8 @@
       <edge source="诸葛亮" target="曹休" id="548" weight="7" />
       <edge source="诸葛亮" target="曹真" id="549" weight="38" />
       <edge source="诸葛亮" target="孟获" id="550" weight="62" />
-      <edge source="诸葛亮" target="马忠" id="551" weight="24" />
-      <edge source="诸葛亮" target="张嶷" id="552" weight="32" />
+      <edge source="诸葛亮" target="张嶷" id="551" weight="32" />
+      <edge source="诸葛亮" target="马忠" id="552" weight="24" />
       <edge source="诸葛亮" target="杨仪" id="553" weight="20" />
       <edge source="诸葛亮" target="姜维" id="554" weight="70" />
       <edge source="诸葛亮" target="郭淮" id="555" weight="21" />
@@ -921,25 +921,25 @@
       <edge source="诸葛亮" target="夏侯霸" id="558" weight="10" />
       <edge source="诸葛亮" target="邓艾" id="559" weight="23" />
       <edge source="诸葛瑾" target="鲁肃" id="560" weight="5" />
-      <edge source="诸葛瑾" target="陆逊" id="561" weight="6" />
-      <edge source="诸葛瑾" target="曹休" id="562" weight="3" />
+      <edge source="诸葛瑾" target="曹休" id="561" weight="3" />
+      <edge source="诸葛瑾" target="陆逊" id="562" weight="6" />
       <edge source="诸葛瑾" target="曹真" id="563" weight="3" />
       <edge source="吕蒙" target="陆逊" id="564" weight="10" />
-      <edge source="吕蒙" target="潘璋" id="565" weight="10" />
-      <edge source="吕蒙" target="徐盛" id="566" weight="8" />
+      <edge source="吕蒙" target="徐盛" id="565" weight="8" />
+      <edge source="吕蒙" target="潘璋" id="566" weight="10" />
       <edge source="吕蒙" target="鲁肃" id="567" weight="10" />
       <edge source="吕蒙" target="马忠" id="568" weight="3" />
-      <edge source="陆逊" target="潘璋" id="569" weight="3" />
-      <edge source="陆逊" target="徐盛" id="570" weight="9" />
+      <edge source="陆逊" target="徐盛" id="569" weight="9" />
+      <edge source="陆逊" target="潘璋" id="570" weight="3" />
       <edge source="陆逊" target="曹休" id="571" weight="9" />
       <edge source="陆逊" target="曹真" id="572" weight="6" />
       <edge source="陆逊" target="张苞" id="573" weight="4" />
       <edge source="陆逊" target="司马懿" id="574" weight="6" />
-      <edge source="潘璋" target="徐盛" id="575" weight="6" />
-      <edge source="潘璋" target="马忠" id="576" weight="5" />
-      <edge source="潘璋" target="张苞" id="577" weight="4" />
-      <edge source="徐盛" target="鲁肃" id="578" weight="5" />
-      <edge source="徐盛" target="曹休" id="579" weight="4" />
+      <edge source="徐盛" target="潘璋" id="575" weight="6" />
+      <edge source="徐盛" target="鲁肃" id="576" weight="5" />
+      <edge source="徐盛" target="曹休" id="577" weight="4" />
+      <edge source="潘璋" target="马忠" id="578" weight="5" />
+      <edge source="潘璋" target="张苞" id="579" weight="4" />
       <edge source="司马懿" target="曹休" id="580" weight="7" />
       <edge source="司马懿" target="曹真" id="581" weight="26" />
       <edge source="司马懿" target="孟达" id="582" weight="10" />
@@ -963,8 +963,8 @@
       <edge source="魏延" target="曹真" id="600" weight="9" />
       <edge source="魏延" target="张苞" id="601" weight="13" />
       <edge source="魏延" target="王平" id="602" weight="30" />
-      <edge source="魏延" target="马忠" id="603" weight="18" />
-      <edge source="魏延" target="张嶷" id="604" weight="19" />
+      <edge source="魏延" target="张嶷" id="603" weight="19" />
+      <edge source="魏延" target="马忠" id="604" weight="18" />
       <edge source="魏延" target="杨仪" id="605" weight="16" />
       <edge source="魏延" target="姜维" id="606" weight="28" />
       <edge source="魏延" target="司马师" id="607" weight="3" />
@@ -973,8 +973,8 @@
       <edge source="黄忠" target="张苞" id="610" weight="3" />
       <edge source="曹休" target="曹真" id="611" weight="6" />
       <edge source="孟达" target="严颜" id="612" weight="3" />
-      <edge source="孟达" target="孟获" id="613" weight="5" />
-      <edge source="孟达" target="曹真" id="614" weight="5" />
+      <edge source="孟达" target="曹真" id="613" weight="5" />
+      <edge source="孟达" target="孟获" id="614" weight="5" />
       <edge source="邓芝" target="王平" id="615" weight="3" />
       <edge source="邓芝" target="张苞" id="616" weight="4" />
       <edge source="郭淮" target="曹真" id="617" weight="15" />
@@ -985,11 +985,11 @@
       <edge source="郭淮" target="夏侯霸" id="622" weight="6" />
       <edge source="郭淮" target="司马师" id="623" weight="6" />
       <edge source="郭淮" target="司马昭" id="624" weight="6" />
-      <edge source="王平" target="马忠" id="625" weight="17" />
-      <edge source="王平" target="张嶷" id="626" weight="22" />
+      <edge source="王平" target="张嶷" id="625" weight="22" />
+      <edge source="王平" target="马忠" id="626" weight="17" />
       <edge source="王平" target="孟获" id="627" weight="12" />
-      <edge source="王平" target="杨仪" id="628" weight="3" />
-      <edge source="王平" target="张苞" id="629" weight="8" />
+      <edge source="王平" target="张苞" id="628" weight="8" />
+      <edge source="王平" target="杨仪" id="629" weight="3" />
       <edge source="王平" target="姜维" id="630" weight="13" />
       <edge source="王平" target="曹真" id="631" weight="7" />
       <edge source="马忠" target="张苞" id="632" weight="5" />

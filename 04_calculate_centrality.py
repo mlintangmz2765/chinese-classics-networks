@@ -5,7 +5,7 @@ novels = ['three_kingdoms', 'water_margin', 'journey_west', 'red_chamber']
 all_results = []
 
 for novel in novels:
-    gexf_file = f"{novel}_network.gexf"
+    gexf_file = f"network_{novel}.gexf"
     try:
         G = nx.read_gexf(gexf_file)
         print(f"Calculating metrics for {novel.upper()}...")
@@ -19,7 +19,7 @@ for novel in novels:
     
     try:
         eig = nx.eigenvector_centrality(G, max_iter=2000, weight='weight')
-    except:
+    except (nx.PowerIterationFailedConvergence, ValueError):
         eig = nx.eigenvector_centrality(G, max_iter=2000)
 
     sorted_chars = sorted(deg.keys(), key=lambda x: deg[x], reverse=True)

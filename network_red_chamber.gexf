@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2026-04-25">
+  <meta lastmodifieddate="2026-04-26">
     <creator>NetworkX 3.6.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -28,24 +28,14 @@
           <attvalue for="0" value="60" />
         </attvalues>
       </node>
-      <node id="林黛玉" label="林黛玉">
-        <attvalues>
-          <attvalue for="0" value="504" />
-        </attvalues>
-      </node>
       <node id="林如海" label="林如海">
         <attvalues>
           <attvalue for="0" value="8" />
         </attvalues>
       </node>
-      <node id="贾珍" label="贾珍">
+      <node id="林黛玉" label="林黛玉">
         <attvalues>
-          <attvalue for="0" value="143" />
-        </attvalues>
-      </node>
-      <node id="贾蓉" label="贾蓉">
-        <attvalues>
-          <attvalue for="0" value="106" />
+          <attvalue for="0" value="504" />
         </attvalues>
       </node>
       <node id="贾珠" label="贾珠">
@@ -58,19 +48,29 @@
           <attvalue for="0" value="11" />
         </attvalues>
       </node>
+      <node id="贾蓉" label="贾蓉">
+        <attvalues>
+          <attvalue for="0" value="106" />
+        </attvalues>
+      </node>
       <node id="贾政" label="贾政">
         <attvalues>
           <attvalue for="0" value="280" />
         </attvalues>
       </node>
-      <node id="探春" label="探春">
+      <node id="贾珍" label="贾珍">
         <attvalues>
-          <attvalue for="0" value="181" />
+          <attvalue for="0" value="143" />
         </attvalues>
       </node>
       <node id="惜春" label="惜春">
         <attvalues>
           <attvalue for="0" value="91" />
+        </attvalues>
+      </node>
+      <node id="探春" label="探春">
+        <attvalues>
+          <attvalue for="0" value="181" />
         </attvalues>
       </node>
       <node id="迎春" label="迎春">
@@ -93,6 +93,11 @@
           <attvalue for="0" value="695" />
         </attvalues>
       </node>
+      <node id="王熙凤" label="王熙凤">
+        <attvalues>
+          <attvalue for="0" value="548" />
+        </attvalues>
+      </node>
       <node id="王夫人" label="王夫人">
         <attvalues>
           <attvalue for="0" value="419" />
@@ -106,11 +111,6 @@
       <node id="李纨" label="李纨">
         <attvalues>
           <attvalue for="0" value="29" />
-        </attvalues>
-      </node>
-      <node id="王熙凤" label="王熙凤">
-        <attvalues>
-          <attvalue for="0" value="540" />
         </attvalues>
       </node>
       <node id="李嬷嬷" label="李嬷嬷">
@@ -188,14 +188,14 @@
           <attvalue for="0" value="36" />
         </attvalues>
       </node>
-      <node id="詹光" label="詹光">
-        <attvalues>
-          <attvalue for="0" value="6" />
-        </attvalues>
-      </node>
       <node id="吴新登" label="吴新登">
         <attvalues>
           <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="詹光" label="詹光">
+        <attvalues>
+          <attvalue for="0" value="6" />
         </attvalues>
       </node>
       <node id="紫鹃" label="紫鹃">
@@ -218,14 +218,14 @@
           <attvalue for="0" value="9" />
         </attvalues>
       </node>
-      <node id="贾瑞" label="贾瑞">
-        <attvalues>
-          <attvalue for="0" value="22" />
-        </attvalues>
-      </node>
       <node id="贾蔷" label="贾蔷">
         <attvalues>
           <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="贾瑞" label="贾瑞">
+        <attvalues>
+          <attvalue for="0" value="22" />
         </attvalues>
       </node>
       <node id="贾菌" label="贾菌">
@@ -383,14 +383,14 @@
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
-      <node id="李纹" label="李纹">
-        <attvalues>
-          <attvalue for="0" value="16" />
-        </attvalues>
-      </node>
       <node id="薛宝琴" label="薛宝琴">
         <attvalues>
           <attvalue for="0" value="82" />
+        </attvalues>
+      </node>
+      <node id="李纹" label="李纹">
+        <attvalues>
+          <attvalue for="0" value="16" />
         </attvalues>
       </node>
       <node id="春燕" label="春燕">
@@ -448,14 +448,14 @@
           <attvalue for="0" value="4" />
         </attvalues>
       </node>
-      <node id="张三" label="张三">
-        <attvalues>
-          <attvalue for="0" value="5" />
-        </attvalues>
-      </node>
       <node id="吴良" label="吴良">
         <attvalues>
           <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="张三" label="张三">
+        <attvalues>
+          <attvalue for="0" value="5" />
         </attvalues>
       </node>
       <node id="包勇" label="包勇">
@@ -495,39 +495,39 @@
       <edge source="香菱" target="夏金桂" id="7" weight="5" />
       <edge source="香菱" target="薛姨妈" id="8" weight="7" />
       <edge source="香菱" target="贾母" id="9" weight="4" />
-      <edge source="贾宝玉" target="贾珍" id="10" weight="54" />
-      <edge source="贾宝玉" target="贾蓉" id="11" weight="40" />
-      <edge source="贾宝玉" target="贾珠" id="12" weight="4" />
-      <edge source="贾宝玉" target="贾敬" id="13" weight="6" />
-      <edge source="贾宝玉" target="贾政" id="14" weight="166" />
+      <edge source="贾宝玉" target="贾珠" id="10" weight="4" />
+      <edge source="贾宝玉" target="贾敬" id="11" weight="6" />
+      <edge source="贾宝玉" target="贾蓉" id="12" weight="40" />
+      <edge source="贾宝玉" target="贾政" id="13" weight="166" />
+      <edge source="贾宝玉" target="贾珍" id="14" weight="54" />
       <edge source="贾宝玉" target="贾雨村" id="15" weight="12" />
-      <edge source="贾宝玉" target="王夫人" id="16" weight="265" />
-      <edge source="贾宝玉" target="贾母" id="17" weight="412" />
-      <edge source="贾宝玉" target="林黛玉" id="18" weight="369" />
+      <edge source="贾宝玉" target="林黛玉" id="16" weight="369" />
+      <edge source="贾宝玉" target="王夫人" id="17" weight="265" />
+      <edge source="贾宝玉" target="贾母" id="18" weight="412" />
       <edge source="贾宝玉" target="探春" id="19" weight="105" />
-      <edge source="贾宝玉" target="李嬷嬷" id="20" weight="14" />
+      <edge source="贾宝玉" target="王熙凤" id="20" weight="239" />
       <edge source="贾宝玉" target="迎春" id="21" weight="53" />
-      <edge source="贾宝玉" target="雪雁" id="22" weight="40" />
-      <edge source="贾宝玉" target="惜春" id="23" weight="54" />
-      <edge source="贾宝玉" target="薛宝钗" id="24" weight="278" />
-      <edge source="贾宝玉" target="秦可卿" id="25" weight="23" />
-      <edge source="贾宝玉" target="周瑞家的" id="26" weight="12" />
-      <edge source="贾宝玉" target="周瑞" id="27" weight="17" />
+      <edge source="贾宝玉" target="李嬷嬷" id="22" weight="14" />
+      <edge source="贾宝玉" target="雪雁" id="23" weight="40" />
+      <edge source="贾宝玉" target="惜春" id="24" weight="54" />
+      <edge source="贾宝玉" target="薛宝钗" id="25" weight="278" />
+      <edge source="贾宝玉" target="秦可卿" id="26" weight="23" />
+      <edge source="贾宝玉" target="周瑞家的" id="27" weight="12" />
       <edge source="贾宝玉" target="司棋" id="28" weight="10" />
-      <edge source="贾宝玉" target="王熙凤" id="29" weight="235" />
+      <edge source="贾宝玉" target="周瑞" id="29" weight="17" />
       <edge source="贾宝玉" target="尤氏" id="30" weight="57" />
-      <edge source="贾宝玉" target="平儿" id="31" weight="72" />
-      <edge source="贾宝玉" target="秦钟" id="32" weight="33" />
-      <edge source="贾宝玉" target="詹光" id="33" weight="3" />
-      <edge source="贾宝玉" target="吴新登" id="34" weight="4" />
+      <edge source="贾宝玉" target="秦钟" id="31" weight="33" />
+      <edge source="贾宝玉" target="平儿" id="32" weight="72" />
+      <edge source="贾宝玉" target="吴新登" id="33" weight="4" />
+      <edge source="贾宝玉" target="詹光" id="34" weight="3" />
       <edge source="贾宝玉" target="薛姨妈" id="35" weight="96" />
       <edge source="贾宝玉" target="紫鹃" id="36" weight="97" />
       <edge source="贾宝玉" target="贾代儒" id="37" weight="11" />
       <edge source="贾宝玉" target="李贵" id="38" weight="20" />
-      <edge source="贾宝玉" target="金荣" id="39" weight="8" />
-      <edge source="贾宝玉" target="贾瑞" id="40" weight="8" />
+      <edge source="贾宝玉" target="薛蟠" id="39" weight="37" />
+      <edge source="贾宝玉" target="金荣" id="40" weight="8" />
       <edge source="贾宝玉" target="贾蔷" id="41" weight="8" />
-      <edge source="贾宝玉" target="薛蟠" id="42" weight="37" />
+      <edge source="贾宝玉" target="贾瑞" id="42" weight="8" />
       <edge source="贾宝玉" target="贾菌" id="43" weight="4" />
       <edge source="贾宝玉" target="贾兰" id="44" weight="52" />
       <edge source="贾宝玉" target="邢夫人" id="45" weight="61" />
@@ -555,9 +555,9 @@
       <edge source="贾宝玉" target="妙玉" id="67" weight="20" />
       <edge source="贾宝玉" target="柳湘莲" id="68" weight="5" />
       <edge source="贾宝玉" target="赖尚荣" id="69" weight="3" />
-      <edge source="贾宝玉" target="李纹" id="70" weight="9" />
-      <edge source="贾宝玉" target="王仁" id="71" weight="7" />
-      <edge source="贾宝玉" target="薛宝琴" id="72" weight="46" />
+      <edge source="贾宝玉" target="薛宝琴" id="70" weight="46" />
+      <edge source="贾宝玉" target="李纹" id="71" weight="9" />
+      <edge source="贾宝玉" target="王仁" id="72" weight="7" />
       <edge source="贾宝玉" target="春燕" id="73" weight="7" />
       <edge source="贾宝玉" target="小燕" id="74" weight="6" />
       <edge source="贾宝玉" target="佩凤" id="75" weight="4" />
@@ -575,267 +575,267 @@
       <edge source="贾雨村" target="冯渊" id="87" weight="4" />
       <edge source="贾雨村" target="薛蟠" id="88" weight="5" />
       <edge source="贾雨村" target="薛宝钗" id="89" weight="5" />
-      <edge source="贾雨村" target="王夫人" id="90" weight="6" />
-      <edge source="贾雨村" target="贾母" id="91" weight="10" />
+      <edge source="贾雨村" target="贾母" id="90" weight="10" />
+      <edge source="贾雨村" target="王夫人" id="91" weight="6" />
       <edge source="贾雨村" target="王熙凤" id="92" weight="5" />
-      <edge source="林黛玉" target="林如海" id="93" weight="4" />
-      <edge source="林黛玉" target="周全" id="94" weight="4" />
-      <edge source="林黛玉" target="贾母" id="95" weight="220" />
-      <edge source="林黛玉" target="贾政" id="96" weight="39" />
-      <edge source="林黛玉" target="贾琏" id="97" weight="22" />
-      <edge source="林黛玉" target="王夫人" id="98" weight="116" />
-      <edge source="林黛玉" target="邢夫人" id="99" weight="23" />
-      <edge source="林黛玉" target="惜春" id="100" weight="38" />
-      <edge source="林黛玉" target="迎春" id="101" weight="41" />
-      <edge source="林黛玉" target="李纨" id="102" weight="13" />
-      <edge source="林黛玉" target="探春" id="103" weight="87" />
-      <edge source="林黛玉" target="王熙凤" id="104" weight="122" />
-      <edge source="林黛玉" target="李嬷嬷" id="105" weight="7" />
-      <edge source="林黛玉" target="雪雁" id="106" weight="49" />
-      <edge source="林黛玉" target="薛蟠" id="107" weight="15" />
-      <edge source="林黛玉" target="贾兰" id="108" weight="20" />
-      <edge source="林黛玉" target="贾珍" id="109" weight="16" />
-      <edge source="林黛玉" target="薛宝钗" id="110" weight="207" />
-      <edge source="林黛玉" target="薛姨妈" id="111" weight="62" />
-      <edge source="林黛玉" target="周瑞家的" id="112" weight="10" />
-      <edge source="林黛玉" target="金钏" id="113" weight="9" />
-      <edge source="林黛玉" target="周瑞" id="114" weight="11" />
-      <edge source="林黛玉" target="司棋" id="115" weight="9" />
-      <edge source="林黛玉" target="尤氏" id="116" weight="23" />
-      <edge source="林黛玉" target="秦钟" id="117" weight="4" />
-      <edge source="林黛玉" target="紫鹃" id="118" weight="109" />
-      <edge source="林黛玉" target="平儿" id="119" weight="28" />
-      <edge source="林黛玉" target="贾代儒" id="120" weight="3" />
-      <edge source="林黛玉" target="秦可卿" id="121" weight="3" />
-      <edge source="林黛玉" target="贾琮" id="122" weight="4" />
-      <edge source="林黛玉" target="贾芸" id="123" weight="9" />
-      <edge source="林黛玉" target="北静王" id="124" weight="3" />
-      <edge source="林黛玉" target="贾元春" id="125" weight="7" />
-      <edge source="林黛玉" target="贾蓉" id="126" weight="13" />
-      <edge source="林黛玉" target="贾环" id="127" weight="13" />
-      <edge source="林黛玉" target="秋纹" id="128" weight="19" />
-      <edge source="林黛玉" target="史湘云" id="129" weight="36" />
-      <edge source="林黛玉" target="小红" id="130" weight="9" />
-      <edge source="林黛玉" target="周姨娘" id="131" weight="5" />
-      <edge source="林黛玉" target="巧姐" id="132" weight="5" />
-      <edge source="林黛玉" target="王太医" id="133" weight="5" />
-      <edge source="林黛玉" target="玉钏" id="134" weight="4" />
-      <edge source="林黛玉" target="妙玉" id="135" weight="14" />
-      <edge source="林黛玉" target="赖大" id="136" weight="4" />
-      <edge source="林黛玉" target="林之孝" id="137" weight="7" />
-      <edge source="林黛玉" target="李纹" id="138" weight="10" />
-      <edge source="林黛玉" target="王仁" id="139" weight="3" />
+      <edge source="林如海" target="林黛玉" id="93" weight="4" />
+      <edge source="林如海" target="贾母" id="94" weight="4" />
+      <edge source="林如海" target="贾琏" id="95" weight="3" />
+      <edge source="林黛玉" target="周全" id="96" weight="4" />
+      <edge source="林黛玉" target="贾母" id="97" weight="220" />
+      <edge source="林黛玉" target="贾政" id="98" weight="39" />
+      <edge source="林黛玉" target="贾琏" id="99" weight="22" />
+      <edge source="林黛玉" target="王熙凤" id="100" weight="127" />
+      <edge source="林黛玉" target="王夫人" id="101" weight="116" />
+      <edge source="林黛玉" target="邢夫人" id="102" weight="23" />
+      <edge source="林黛玉" target="惜春" id="103" weight="38" />
+      <edge source="林黛玉" target="李纨" id="104" weight="13" />
+      <edge source="林黛玉" target="迎春" id="105" weight="41" />
+      <edge source="林黛玉" target="探春" id="106" weight="87" />
+      <edge source="林黛玉" target="李嬷嬷" id="107" weight="7" />
+      <edge source="林黛玉" target="雪雁" id="108" weight="49" />
+      <edge source="林黛玉" target="薛蟠" id="109" weight="15" />
+      <edge source="林黛玉" target="贾兰" id="110" weight="20" />
+      <edge source="林黛玉" target="贾珍" id="111" weight="16" />
+      <edge source="林黛玉" target="薛姨妈" id="112" weight="62" />
+      <edge source="林黛玉" target="薛宝钗" id="113" weight="207" />
+      <edge source="林黛玉" target="金钏" id="114" weight="9" />
+      <edge source="林黛玉" target="周瑞家的" id="115" weight="10" />
+      <edge source="林黛玉" target="周瑞" id="116" weight="11" />
+      <edge source="林黛玉" target="司棋" id="117" weight="9" />
+      <edge source="林黛玉" target="尤氏" id="118" weight="23" />
+      <edge source="林黛玉" target="秦钟" id="119" weight="4" />
+      <edge source="林黛玉" target="紫鹃" id="120" weight="109" />
+      <edge source="林黛玉" target="平儿" id="121" weight="28" />
+      <edge source="林黛玉" target="贾代儒" id="122" weight="3" />
+      <edge source="林黛玉" target="贾琮" id="123" weight="4" />
+      <edge source="林黛玉" target="秦可卿" id="124" weight="3" />
+      <edge source="林黛玉" target="贾芸" id="125" weight="9" />
+      <edge source="林黛玉" target="北静王" id="126" weight="3" />
+      <edge source="林黛玉" target="贾元春" id="127" weight="7" />
+      <edge source="林黛玉" target="贾环" id="128" weight="13" />
+      <edge source="林黛玉" target="贾蓉" id="129" weight="13" />
+      <edge source="林黛玉" target="秋纹" id="130" weight="19" />
+      <edge source="林黛玉" target="史湘云" id="131" weight="36" />
+      <edge source="林黛玉" target="小红" id="132" weight="9" />
+      <edge source="林黛玉" target="周姨娘" id="133" weight="5" />
+      <edge source="林黛玉" target="巧姐" id="134" weight="5" />
+      <edge source="林黛玉" target="王太医" id="135" weight="5" />
+      <edge source="林黛玉" target="玉钏" id="136" weight="4" />
+      <edge source="林黛玉" target="妙玉" id="137" weight="14" />
+      <edge source="林黛玉" target="赖大" id="138" weight="4" />
+      <edge source="林黛玉" target="林之孝" id="139" weight="7" />
       <edge source="林黛玉" target="薛宝琴" id="140" weight="40" />
-      <edge source="林黛玉" target="尤二姐" id="141" weight="3" />
-      <edge source="林黛玉" target="李婶娘" id="142" weight="5" />
-      <edge source="林如海" target="贾母" id="143" weight="4" />
-      <edge source="林如海" target="贾琏" id="144" weight="3" />
-      <edge source="贾珍" target="贾蓉" id="145" weight="63" />
-      <edge source="贾珍" target="贾敬" id="146" weight="11" />
-      <edge source="贾珍" target="贾政" id="147" weight="43" />
-      <edge source="贾珍" target="王夫人" id="148" weight="41" />
-      <edge source="贾珍" target="贾琏" id="149" weight="47" />
-      <edge source="贾珍" target="薛姨妈" id="150" weight="17" />
-      <edge source="贾珍" target="薛蟠" id="151" weight="11" />
-      <edge source="贾珍" target="贾母" id="152" weight="70" />
-      <edge source="贾珍" target="迎春" id="153" weight="6" />
-      <edge source="贾珍" target="薛宝钗" id="154" weight="16" />
-      <edge source="贾珍" target="邢夫人" id="155" weight="24" />
-      <edge source="贾珍" target="尤氏" id="156" weight="51" />
-      <edge source="贾珍" target="秦可卿" id="157" weight="9" />
-      <edge source="贾珍" target="王熙凤" id="158" weight="48" />
-      <edge source="贾珍" target="贾代儒" id="159" weight="3" />
-      <edge source="贾珍" target="贾蔷" id="160" weight="6" />
-      <edge source="贾珍" target="秦钟" id="161" weight="9" />
-      <edge source="贾珍" target="冯紫英" id="162" weight="6" />
-      <edge source="贾珍" target="贾芹" id="163" weight="6" />
-      <edge source="贾珍" target="贾兰" id="164" weight="8" />
-      <edge source="贾珍" target="贾琮" id="165" weight="5" />
-      <edge source="贾珍" target="贾芸" id="166" weight="5" />
-      <edge source="贾珍" target="北静王" id="167" weight="7" />
-      <edge source="贾珍" target="赖大" id="168" weight="5" />
-      <edge source="贾珍" target="林之孝" id="169" weight="7" />
-      <edge source="贾珍" target="贾元春" id="170" weight="4" />
-      <edge source="贾珍" target="贾环" id="171" weight="9" />
-      <edge source="贾珍" target="探春" id="172" weight="6" />
-      <edge source="贾珍" target="平儿" id="173" weight="5" />
-      <edge source="贾珍" target="周瑞家的" id="174" weight="3" />
-      <edge source="贾珍" target="周瑞" id="175" weight="6" />
-      <edge source="贾珍" target="惜春" id="176" weight="8" />
-      <edge source="贾珍" target="巧姐" id="177" weight="3" />
-      <edge source="贾珍" target="史湘云" id="178" weight="3" />
-      <edge source="贾珍" target="柳湘莲" id="179" weight="3" />
-      <edge source="贾珍" target="薛宝琴" id="180" weight="4" />
-      <edge source="贾珍" target="尤三姐" id="181" weight="5" />
-      <edge source="贾珍" target="尤二姐" id="182" weight="9" />
-      <edge source="贾珍" target="尤老娘" id="183" weight="6" />
-      <edge source="贾珍" target="俞禄" id="184" weight="4" />
-      <edge source="贾珍" target="张华" id="185" weight="4" />
-      <edge source="贾珍" target="鲍二" id="186" weight="9" />
-      <edge source="贾珍" target="佩凤" id="187" weight="6" />
-      <edge source="贾蓉" target="贾敬" id="188" weight="8" />
-      <edge source="贾蓉" target="贾政" id="189" weight="18" />
-      <edge source="贾蓉" target="邢夫人" id="190" weight="20" />
-      <edge source="贾蓉" target="王夫人" id="191" weight="29" />
-      <edge source="贾蓉" target="尤氏" id="192" weight="42" />
-      <edge source="贾蓉" target="贾母" id="193" weight="55" />
-      <edge source="贾蓉" target="秦可卿" id="194" weight="13" />
-      <edge source="贾蓉" target="王熙凤" id="195" weight="53" />
-      <edge source="贾蓉" target="平儿" id="196" weight="8" />
-      <edge source="贾蓉" target="贾代儒" id="197" weight="3" />
-      <edge source="贾蓉" target="秦钟" id="198" weight="5" />
-      <edge source="贾蓉" target="贾瑞" id="199" weight="5" />
-      <edge source="贾蓉" target="贾蔷" id="200" weight="8" />
-      <edge source="贾蓉" target="薛蟠" id="201" weight="5" />
-      <edge source="贾蓉" target="冯紫英" id="202" weight="5" />
-      <edge source="贾蓉" target="北静王" id="203" weight="3" />
-      <edge source="贾蓉" target="赖大" id="204" weight="6" />
-      <edge source="贾蓉" target="迎春" id="205" weight="4" />
-      <edge source="贾蓉" target="薛姨妈" id="206" weight="8" />
-      <edge source="贾蓉" target="贾琏" id="207" weight="36" />
-      <edge source="贾蓉" target="林之孝" id="208" weight="5" />
-      <edge source="贾蓉" target="贾元春" id="209" weight="3" />
-      <edge source="贾蓉" target="贾兰" id="210" weight="10" />
-      <edge source="贾蓉" target="贾环" id="211" weight="7" />
-      <edge source="贾蓉" target="薛宝钗" id="212" weight="10" />
-      <edge source="贾蓉" target="贾芸" id="213" weight="4" />
-      <edge source="贾蓉" target="贾芹" id="214" weight="4" />
-      <edge source="贾蓉" target="探春" id="215" weight="3" />
-      <edge source="贾蓉" target="贾琮" id="216" weight="4" />
-      <edge source="贾蓉" target="薛宝琴" id="217" weight="4" />
-      <edge source="贾蓉" target="尤三姐" id="218" weight="4" />
-      <edge source="贾蓉" target="尤二姐" id="219" weight="9" />
-      <edge source="贾蓉" target="尤老娘" id="220" weight="4" />
-      <edge source="贾蓉" target="俞禄" id="221" weight="5" />
-      <edge source="贾蓉" target="张华" id="222" weight="6" />
-      <edge source="贾蓉" target="惜春" id="223" weight="6" />
-      <edge source="贾珠" target="贾政" id="224" weight="3" />
-      <edge source="贾珠" target="李纨" id="225" weight="3" />
-      <edge source="贾珠" target="王夫人" id="226" weight="3" />
-      <edge source="贾珠" target="贾母" id="227" weight="3" />
-      <edge source="贾敬" target="贾政" id="228" weight="3" />
-      <edge source="贾敬" target="尤氏" id="229" weight="7" />
-      <edge source="贾敬" target="贾母" id="230" weight="6" />
-      <edge source="贾敬" target="邢夫人" id="231" weight="3" />
-      <edge source="贾敬" target="王夫人" id="232" weight="4" />
-      <edge source="贾敬" target="贾琏" id="233" weight="5" />
-      <edge source="贾敬" target="王熙凤" id="234" weight="4" />
-      <edge source="贾政" target="贾母" id="235" weight="131" />
-      <edge source="贾政" target="王夫人" id="236" weight="106" />
-      <edge source="贾政" target="薛宝钗" id="237" weight="48" />
-      <edge source="贾政" target="薛蟠" id="238" weight="12" />
-      <edge source="贾政" target="贾琏" id="239" weight="67" />
-      <edge source="贾政" target="薛姨妈" id="240" weight="21" />
-      <edge source="贾政" target="迎春" id="241" weight="13" />
-      <edge source="贾政" target="李贵" id="242" weight="7" />
-      <edge source="贾政" target="贾代儒" id="243" weight="6" />
-      <edge source="贾政" target="贾芹" id="244" weight="7" />
-      <edge source="贾政" target="贾蔷" id="245" weight="6" />
-      <edge source="贾政" target="尤氏" id="246" weight="20" />
-      <edge source="贾政" target="贾兰" id="247" weight="25" />
-      <edge source="贾政" target="秦钟" id="248" weight="5" />
-      <edge source="贾政" target="秦可卿" id="249" weight="4" />
-      <edge source="贾政" target="贾芸" id="250" weight="8" />
-      <edge source="贾政" target="邢夫人" id="251" weight="37" />
-      <edge source="贾政" target="王熙凤" id="252" weight="59" />
-      <edge source="贾政" target="北静王" id="253" weight="14" />
-      <edge source="贾政" target="赖大" id="254" weight="17" />
-      <edge source="贾政" target="詹光" id="255" weight="4" />
-      <edge source="贾政" target="林之孝" id="256" weight="9" />
-      <edge source="贾政" target="贾元春" id="257" weight="20" />
-      <edge source="贾政" target="探春" id="258" weight="18" />
-      <edge source="贾政" target="贾环" id="259" weight="27" />
-      <edge source="贾政" target="李纨" id="260" weight="7" />
-      <edge source="贾政" target="惜春" id="261" weight="16" />
-      <edge source="贾政" target="金钏" id="262" weight="4" />
-      <edge source="贾政" target="平儿" id="263" weight="12" />
-      <edge source="贾政" target="周瑞家的" id="264" weight="4" />
-      <edge source="贾政" target="周瑞" id="265" weight="6" />
-      <edge source="贾政" target="紫鹃" id="266" weight="8" />
-      <edge source="贾政" target="薛宝琴" id="267" weight="3" />
-      <edge source="贾政" target="佩凤" id="268" weight="4" />
-      <edge source="贾政" target="巧姐" id="269" weight="5" />
-      <edge source="贾政" target="蒋玉菡" id="270" weight="3" />
-      <edge source="贾政" target="鲍二" id="271" weight="4" />
-      <edge source="贾政" target="冯紫英" id="272" weight="5" />
-      <edge source="贾政" target="包勇" id="273" weight="6" />
-      <edge source="贾政" target="雪雁" id="274" weight="3" />
-      <edge source="贾政" target="王仁" id="275" weight="3" />
-      <edge source="贾政" target="李十儿" id="276" weight="5" />
-      <edge source="贾政" target="西平王" id="277" weight="3" />
-      <edge source="贾政" target="妙玉" id="278" weight="4" />
-      <edge source="贾政" target="甄宝玉" id="279" weight="5" />
-      <edge source="探春" target="惜春" id="280" weight="42" />
-      <edge source="探春" target="迎春" id="281" weight="38" />
-      <edge source="探春" target="李纨" id="282" weight="8" />
-      <edge source="探春" target="王夫人" id="283" weight="50" />
-      <edge source="探春" target="王熙凤" id="284" weight="59" />
-      <edge source="探春" target="贾母" id="285" weight="84" />
-      <edge source="探春" target="薛蟠" id="286" weight="3" />
-      <edge source="探春" target="薛宝钗" id="287" weight="84" />
-      <edge source="探春" target="周瑞家的" id="288" weight="5" />
-      <edge source="探春" target="周瑞" id="289" weight="5" />
-      <edge source="探春" target="司棋" id="290" weight="9" />
-      <edge source="探春" target="贾元春" id="291" weight="5" />
-      <edge source="探春" target="贾兰" id="292" weight="10" />
-      <edge source="探春" target="贾环" id="293" weight="10" />
-      <edge source="探春" target="史湘云" id="294" weight="16" />
-      <edge source="探春" target="薛姨妈" id="295" weight="20" />
-      <edge source="探春" target="巧姐" id="296" weight="4" />
-      <edge source="探春" target="平儿" id="297" weight="39" />
-      <edge source="探春" target="紫鹃" id="298" weight="18" />
-      <edge source="探春" target="雪雁" id="299" weight="8" />
-      <edge source="探春" target="邢夫人" id="300" weight="10" />
-      <edge source="探春" target="周姨娘" id="301" weight="3" />
-      <edge source="探春" target="尤氏" id="302" weight="17" />
-      <edge source="探春" target="李纹" id="303" weight="5" />
-      <edge source="探春" target="薛宝琴" id="304" weight="26" />
-      <edge source="探春" target="赖大" id="305" weight="3" />
-      <edge source="探春" target="林之孝" id="306" weight="10" />
-      <edge source="探春" target="玉钏" id="307" weight="4" />
-      <edge source="探春" target="贾琏" id="308" weight="5" />
-      <edge source="探春" target="王善保" id="309" weight="3" />
-      <edge source="惜春" target="迎春" id="310" weight="32" />
-      <edge source="惜春" target="李纨" id="311" weight="8" />
-      <edge source="惜春" target="王夫人" id="312" weight="38" />
-      <edge source="惜春" target="王熙凤" id="313" weight="39" />
-      <edge source="惜春" target="贾母" id="314" weight="52" />
-      <edge source="惜春" target="薛宝钗" id="315" weight="47" />
-      <edge source="惜春" target="周瑞家的" id="316" weight="6" />
-      <edge source="惜春" target="周瑞" id="317" weight="9" />
-      <edge source="惜春" target="史湘云" id="318" weight="13" />
-      <edge source="惜春" target="贾环" id="319" weight="11" />
-      <edge source="惜春" target="薛姨妈" id="320" weight="17" />
-      <edge source="惜春" target="平儿" id="321" weight="14" />
-      <edge source="惜春" target="巧姐" id="322" weight="5" />
-      <edge source="惜春" target="司棋" id="323" weight="3" />
-      <edge source="惜春" target="紫鹃" id="324" weight="8" />
-      <edge source="惜春" target="雪雁" id="325" weight="3" />
-      <edge source="惜春" target="邢夫人" id="326" weight="13" />
-      <edge source="惜春" target="李纹" id="327" weight="4" />
-      <edge source="惜春" target="薛宝琴" id="328" weight="14" />
-      <edge source="惜春" target="尤氏" id="329" weight="21" />
-      <edge source="惜春" target="贾兰" id="330" weight="12" />
-      <edge source="惜春" target="贾琏" id="331" weight="8" />
-      <edge source="惜春" target="妙玉" id="332" weight="12" />
-      <edge source="惜春" target="李婶娘" id="333" weight="3" />
-      <edge source="惜春" target="贾元春" id="334" weight="3" />
-      <edge source="惜春" target="包勇" id="335" weight="6" />
-      <edge source="惜春" target="林之孝" id="336" weight="6" />
-      <edge source="惜春" target="贾芸" id="337" weight="5" />
-      <edge source="惜春" target="贾蔷" id="338" weight="3" />
+      <edge source="林黛玉" target="李纹" id="141" weight="10" />
+      <edge source="林黛玉" target="王仁" id="142" weight="3" />
+      <edge source="林黛玉" target="尤二姐" id="143" weight="3" />
+      <edge source="林黛玉" target="李婶娘" id="144" weight="5" />
+      <edge source="贾珠" target="贾政" id="145" weight="3" />
+      <edge source="贾珠" target="李纨" id="146" weight="3" />
+      <edge source="贾珠" target="贾母" id="147" weight="3" />
+      <edge source="贾珠" target="王夫人" id="148" weight="3" />
+      <edge source="贾敬" target="贾蓉" id="149" weight="8" />
+      <edge source="贾敬" target="贾政" id="150" weight="3" />
+      <edge source="贾敬" target="贾珍" id="151" weight="11" />
+      <edge source="贾敬" target="尤氏" id="152" weight="7" />
+      <edge source="贾敬" target="贾母" id="153" weight="6" />
+      <edge source="贾敬" target="贾琏" id="154" weight="5" />
+      <edge source="贾敬" target="邢夫人" id="155" weight="3" />
+      <edge source="贾敬" target="王夫人" id="156" weight="4" />
+      <edge source="贾敬" target="王熙凤" id="157" weight="4" />
+      <edge source="贾蓉" target="贾政" id="158" weight="18" />
+      <edge source="贾蓉" target="贾珍" id="159" weight="63" />
+      <edge source="贾蓉" target="尤氏" id="160" weight="42" />
+      <edge source="贾蓉" target="邢夫人" id="161" weight="20" />
+      <edge source="贾蓉" target="王夫人" id="162" weight="29" />
+      <edge source="贾蓉" target="贾母" id="163" weight="55" />
+      <edge source="贾蓉" target="秦可卿" id="164" weight="13" />
+      <edge source="贾蓉" target="平儿" id="165" weight="8" />
+      <edge source="贾蓉" target="王熙凤" id="166" weight="53" />
+      <edge source="贾蓉" target="秦钟" id="167" weight="5" />
+      <edge source="贾蓉" target="贾代儒" id="168" weight="3" />
+      <edge source="贾蓉" target="薛蟠" id="169" weight="5" />
+      <edge source="贾蓉" target="贾蔷" id="170" weight="8" />
+      <edge source="贾蓉" target="贾瑞" id="171" weight="5" />
+      <edge source="贾蓉" target="冯紫英" id="172" weight="5" />
+      <edge source="贾蓉" target="北静王" id="173" weight="3" />
+      <edge source="贾蓉" target="迎春" id="174" weight="4" />
+      <edge source="贾蓉" target="薛姨妈" id="175" weight="8" />
+      <edge source="贾蓉" target="赖大" id="176" weight="6" />
+      <edge source="贾蓉" target="贾琏" id="177" weight="36" />
+      <edge source="贾蓉" target="林之孝" id="178" weight="5" />
+      <edge source="贾蓉" target="贾元春" id="179" weight="3" />
+      <edge source="贾蓉" target="薛宝钗" id="180" weight="10" />
+      <edge source="贾蓉" target="贾环" id="181" weight="7" />
+      <edge source="贾蓉" target="贾兰" id="182" weight="10" />
+      <edge source="贾蓉" target="贾芸" id="183" weight="4" />
+      <edge source="贾蓉" target="贾芹" id="184" weight="4" />
+      <edge source="贾蓉" target="探春" id="185" weight="3" />
+      <edge source="贾蓉" target="贾琮" id="186" weight="4" />
+      <edge source="贾蓉" target="薛宝琴" id="187" weight="4" />
+      <edge source="贾蓉" target="尤三姐" id="188" weight="4" />
+      <edge source="贾蓉" target="尤二姐" id="189" weight="9" />
+      <edge source="贾蓉" target="尤老娘" id="190" weight="4" />
+      <edge source="贾蓉" target="俞禄" id="191" weight="5" />
+      <edge source="贾蓉" target="张华" id="192" weight="6" />
+      <edge source="贾蓉" target="惜春" id="193" weight="6" />
+      <edge source="贾政" target="贾珍" id="194" weight="43" />
+      <edge source="贾政" target="贾母" id="195" weight="131" />
+      <edge source="贾政" target="王夫人" id="196" weight="106" />
+      <edge source="贾政" target="薛蟠" id="197" weight="12" />
+      <edge source="贾政" target="薛宝钗" id="198" weight="48" />
+      <edge source="贾政" target="薛姨妈" id="199" weight="21" />
+      <edge source="贾政" target="贾琏" id="200" weight="67" />
+      <edge source="贾政" target="迎春" id="201" weight="13" />
+      <edge source="贾政" target="李贵" id="202" weight="7" />
+      <edge source="贾政" target="贾代儒" id="203" weight="6" />
+      <edge source="贾政" target="尤氏" id="204" weight="20" />
+      <edge source="贾政" target="贾芹" id="205" weight="7" />
+      <edge source="贾政" target="秦钟" id="206" weight="5" />
+      <edge source="贾政" target="秦可卿" id="207" weight="4" />
+      <edge source="贾政" target="贾蔷" id="208" weight="6" />
+      <edge source="贾政" target="贾兰" id="209" weight="25" />
+      <edge source="贾政" target="贾芸" id="210" weight="8" />
+      <edge source="贾政" target="邢夫人" id="211" weight="37" />
+      <edge source="贾政" target="王熙凤" id="212" weight="62" />
+      <edge source="贾政" target="北静王" id="213" weight="14" />
+      <edge source="贾政" target="林之孝" id="214" weight="9" />
+      <edge source="贾政" target="赖大" id="215" weight="17" />
+      <edge source="贾政" target="詹光" id="216" weight="4" />
+      <edge source="贾政" target="贾元春" id="217" weight="20" />
+      <edge source="贾政" target="贾环" id="218" weight="27" />
+      <edge source="贾政" target="探春" id="219" weight="18" />
+      <edge source="贾政" target="李纨" id="220" weight="7" />
+      <edge source="贾政" target="惜春" id="221" weight="16" />
+      <edge source="贾政" target="金钏" id="222" weight="4" />
+      <edge source="贾政" target="周瑞家的" id="223" weight="4" />
+      <edge source="贾政" target="平儿" id="224" weight="12" />
+      <edge source="贾政" target="周瑞" id="225" weight="6" />
+      <edge source="贾政" target="薛宝琴" id="226" weight="3" />
+      <edge source="贾政" target="紫鹃" id="227" weight="8" />
+      <edge source="贾政" target="佩凤" id="228" weight="4" />
+      <edge source="贾政" target="巧姐" id="229" weight="5" />
+      <edge source="贾政" target="蒋玉菡" id="230" weight="3" />
+      <edge source="贾政" target="鲍二" id="231" weight="4" />
+      <edge source="贾政" target="冯紫英" id="232" weight="5" />
+      <edge source="贾政" target="包勇" id="233" weight="6" />
+      <edge source="贾政" target="雪雁" id="234" weight="3" />
+      <edge source="贾政" target="王仁" id="235" weight="3" />
+      <edge source="贾政" target="李十儿" id="236" weight="5" />
+      <edge source="贾政" target="西平王" id="237" weight="3" />
+      <edge source="贾政" target="妙玉" id="238" weight="4" />
+      <edge source="贾政" target="甄宝玉" id="239" weight="5" />
+      <edge source="贾珍" target="薛蟠" id="240" weight="11" />
+      <edge source="贾珍" target="薛姨妈" id="241" weight="17" />
+      <edge source="贾珍" target="贾琏" id="242" weight="47" />
+      <edge source="贾珍" target="贾母" id="243" weight="70" />
+      <edge source="贾珍" target="王夫人" id="244" weight="41" />
+      <edge source="贾珍" target="迎春" id="245" weight="6" />
+      <edge source="贾珍" target="薛宝钗" id="246" weight="16" />
+      <edge source="贾珍" target="尤氏" id="247" weight="51" />
+      <edge source="贾珍" target="邢夫人" id="248" weight="24" />
+      <edge source="贾珍" target="秦可卿" id="249" weight="9" />
+      <edge source="贾珍" target="王熙凤" id="250" weight="48" />
+      <edge source="贾珍" target="秦钟" id="251" weight="9" />
+      <edge source="贾珍" target="贾代儒" id="252" weight="3" />
+      <edge source="贾珍" target="贾蔷" id="253" weight="6" />
+      <edge source="贾珍" target="冯紫英" id="254" weight="6" />
+      <edge source="贾珍" target="贾芹" id="255" weight="6" />
+      <edge source="贾珍" target="贾琮" id="256" weight="5" />
+      <edge source="贾珍" target="贾兰" id="257" weight="8" />
+      <edge source="贾珍" target="贾芸" id="258" weight="5" />
+      <edge source="贾珍" target="北静王" id="259" weight="7" />
+      <edge source="贾珍" target="赖大" id="260" weight="5" />
+      <edge source="贾珍" target="林之孝" id="261" weight="7" />
+      <edge source="贾珍" target="贾元春" id="262" weight="4" />
+      <edge source="贾珍" target="贾环" id="263" weight="9" />
+      <edge source="贾珍" target="探春" id="264" weight="6" />
+      <edge source="贾珍" target="周瑞家的" id="265" weight="3" />
+      <edge source="贾珍" target="平儿" id="266" weight="5" />
+      <edge source="贾珍" target="周瑞" id="267" weight="6" />
+      <edge source="贾珍" target="巧姐" id="268" weight="3" />
+      <edge source="贾珍" target="惜春" id="269" weight="8" />
+      <edge source="贾珍" target="史湘云" id="270" weight="3" />
+      <edge source="贾珍" target="柳湘莲" id="271" weight="3" />
+      <edge source="贾珍" target="薛宝琴" id="272" weight="4" />
+      <edge source="贾珍" target="尤三姐" id="273" weight="5" />
+      <edge source="贾珍" target="尤二姐" id="274" weight="9" />
+      <edge source="贾珍" target="尤老娘" id="275" weight="6" />
+      <edge source="贾珍" target="俞禄" id="276" weight="4" />
+      <edge source="贾珍" target="张华" id="277" weight="4" />
+      <edge source="贾珍" target="鲍二" id="278" weight="9" />
+      <edge source="贾珍" target="佩凤" id="279" weight="6" />
+      <edge source="惜春" target="探春" id="280" weight="42" />
+      <edge source="惜春" target="迎春" id="281" weight="32" />
+      <edge source="惜春" target="李纨" id="282" weight="8" />
+      <edge source="惜春" target="贾母" id="283" weight="52" />
+      <edge source="惜春" target="王夫人" id="284" weight="38" />
+      <edge source="惜春" target="王熙凤" id="285" weight="39" />
+      <edge source="惜春" target="薛宝钗" id="286" weight="47" />
+      <edge source="惜春" target="周瑞家的" id="287" weight="6" />
+      <edge source="惜春" target="周瑞" id="288" weight="9" />
+      <edge source="惜春" target="史湘云" id="289" weight="13" />
+      <edge source="惜春" target="薛姨妈" id="290" weight="17" />
+      <edge source="惜春" target="贾环" id="291" weight="11" />
+      <edge source="惜春" target="平儿" id="292" weight="14" />
+      <edge source="惜春" target="巧姐" id="293" weight="5" />
+      <edge source="惜春" target="司棋" id="294" weight="3" />
+      <edge source="惜春" target="雪雁" id="295" weight="3" />
+      <edge source="惜春" target="紫鹃" id="296" weight="8" />
+      <edge source="惜春" target="邢夫人" id="297" weight="13" />
+      <edge source="惜春" target="薛宝琴" id="298" weight="14" />
+      <edge source="惜春" target="李纹" id="299" weight="4" />
+      <edge source="惜春" target="尤氏" id="300" weight="21" />
+      <edge source="惜春" target="贾兰" id="301" weight="12" />
+      <edge source="惜春" target="贾琏" id="302" weight="8" />
+      <edge source="惜春" target="妙玉" id="303" weight="12" />
+      <edge source="惜春" target="李婶娘" id="304" weight="3" />
+      <edge source="惜春" target="贾元春" id="305" weight="3" />
+      <edge source="惜春" target="包勇" id="306" weight="6" />
+      <edge source="惜春" target="林之孝" id="307" weight="6" />
+      <edge source="惜春" target="贾芸" id="308" weight="5" />
+      <edge source="惜春" target="贾蔷" id="309" weight="3" />
+      <edge source="探春" target="迎春" id="310" weight="38" />
+      <edge source="探春" target="李纨" id="311" weight="8" />
+      <edge source="探春" target="贾母" id="312" weight="84" />
+      <edge source="探春" target="王夫人" id="313" weight="50" />
+      <edge source="探春" target="王熙凤" id="314" weight="60" />
+      <edge source="探春" target="薛蟠" id="315" weight="3" />
+      <edge source="探春" target="薛宝钗" id="316" weight="84" />
+      <edge source="探春" target="周瑞家的" id="317" weight="5" />
+      <edge source="探春" target="司棋" id="318" weight="9" />
+      <edge source="探春" target="周瑞" id="319" weight="5" />
+      <edge source="探春" target="贾元春" id="320" weight="5" />
+      <edge source="探春" target="贾环" id="321" weight="10" />
+      <edge source="探春" target="贾兰" id="322" weight="10" />
+      <edge source="探春" target="史湘云" id="323" weight="16" />
+      <edge source="探春" target="薛姨妈" id="324" weight="20" />
+      <edge source="探春" target="巧姐" id="325" weight="4" />
+      <edge source="探春" target="平儿" id="326" weight="39" />
+      <edge source="探春" target="雪雁" id="327" weight="8" />
+      <edge source="探春" target="紫鹃" id="328" weight="18" />
+      <edge source="探春" target="邢夫人" id="329" weight="10" />
+      <edge source="探春" target="周姨娘" id="330" weight="3" />
+      <edge source="探春" target="尤氏" id="331" weight="17" />
+      <edge source="探春" target="薛宝琴" id="332" weight="26" />
+      <edge source="探春" target="李纹" id="333" weight="5" />
+      <edge source="探春" target="赖大" id="334" weight="3" />
+      <edge source="探春" target="林之孝" id="335" weight="10" />
+      <edge source="探春" target="玉钏" id="336" weight="4" />
+      <edge source="探春" target="贾琏" id="337" weight="5" />
+      <edge source="探春" target="王善保" id="338" weight="3" />
       <edge source="迎春" target="李纨" id="339" weight="7" />
-      <edge source="迎春" target="王夫人" id="340" weight="44" />
-      <edge source="迎春" target="王熙凤" id="341" weight="37" />
-      <edge source="迎春" target="贾母" id="342" weight="49" />
-      <edge source="迎春" target="薛宝钗" id="343" weight="45" />
+      <edge source="迎春" target="贾母" id="340" weight="49" />
+      <edge source="迎春" target="王夫人" id="341" weight="44" />
+      <edge source="迎春" target="王熙凤" id="342" weight="38" />
+      <edge source="迎春" target="薛蟠" id="343" weight="5" />
       <edge source="迎春" target="薛姨妈" id="344" weight="21" />
-      <edge source="迎春" target="薛蟠" id="345" weight="5" />
+      <edge source="迎春" target="薛宝钗" id="345" weight="45" />
       <edge source="迎春" target="周瑞家的" id="346" weight="5" />
-      <edge source="迎春" target="周瑞" id="347" weight="5" />
-      <edge source="迎春" target="司棋" id="348" weight="13" />
-      <edge source="迎春" target="邢夫人" id="349" weight="19" />
-      <edge source="迎春" target="尤氏" id="350" weight="9" />
+      <edge source="迎春" target="司棋" id="347" weight="13" />
+      <edge source="迎春" target="周瑞" id="348" weight="5" />
+      <edge source="迎春" target="尤氏" id="349" weight="9" />
+      <edge source="迎春" target="邢夫人" id="350" weight="19" />
       <edge source="迎春" target="史湘云" id="351" weight="10" />
       <edge source="迎春" target="贾环" id="352" weight="7" />
       <edge source="迎春" target="金钏" id="353" weight="4" />
@@ -845,25 +845,25 @@
       <edge source="迎春" target="李纹" id="357" weight="5" />
       <edge source="迎春" target="贾琏" id="358" weight="4" />
       <edge source="迎春" target="孙绍祖" id="359" weight="3" />
-      <edge source="贾琏" target="贾母" id="360" weight="106" />
-      <edge source="贾琏" target="王夫人" id="361" weight="70" />
-      <edge source="贾琏" target="薛姨妈" id="362" weight="17" />
-      <edge source="贾琏" target="薛蟠" id="363" weight="7" />
-      <edge source="贾琏" target="平儿" id="364" weight="60" />
+      <edge source="贾琏" target="王熙凤" id="360" weight="115" />
+      <edge source="贾琏" target="贾母" id="361" weight="106" />
+      <edge source="贾琏" target="薛蟠" id="362" weight="7" />
+      <edge source="贾琏" target="薛姨妈" id="363" weight="17" />
+      <edge source="贾琏" target="王夫人" id="364" weight="70" />
       <edge source="贾琏" target="周瑞家的" id="365" weight="10" />
-      <edge source="贾琏" target="王熙凤" id="366" weight="114" />
+      <edge source="贾琏" target="平儿" id="366" weight="60" />
       <edge source="贾琏" target="周瑞" id="367" weight="15" />
       <edge source="贾琏" target="贾蔷" id="368" weight="8" />
       <edge source="贾琏" target="旺儿" id="369" weight="13" />
       <edge source="贾琏" target="赵嬷嬷" id="370" weight="4" />
-      <edge source="贾琏" target="赖大" id="371" weight="19" />
-      <edge source="贾琏" target="林之孝" id="372" weight="14" />
-      <edge source="贾琏" target="邢夫人" id="373" weight="35" />
-      <edge source="贾琏" target="尤氏" id="374" weight="26" />
-      <edge source="贾琏" target="贾元春" id="375" weight="8" />
-      <edge source="贾琏" target="贾兰" id="376" weight="11" />
+      <edge source="贾琏" target="林之孝" id="371" weight="14" />
+      <edge source="贾琏" target="赖大" id="372" weight="19" />
+      <edge source="贾琏" target="尤氏" id="373" weight="26" />
+      <edge source="贾琏" target="贾元春" id="374" weight="8" />
+      <edge source="贾琏" target="邢夫人" id="375" weight="35" />
+      <edge source="贾琏" target="薛宝钗" id="376" weight="25" />
       <edge source="贾琏" target="贾环" id="377" weight="13" />
-      <edge source="贾琏" target="薛宝钗" id="378" weight="25" />
+      <edge source="贾琏" target="贾兰" id="378" weight="11" />
       <edge source="贾琏" target="贾芹" id="379" weight="9" />
       <edge source="贾琏" target="贾芸" id="380" weight="15" />
       <edge source="贾琏" target="周全" id="381" weight="3" />
@@ -887,14 +887,14 @@
       <edge source="贾琏" target="巧姐" id="399" weight="12" />
       <edge source="贾琏" target="包勇" id="400" weight="4" />
       <edge source="周全" target="贾母" id="401" weight="5" />
-      <edge source="周全" target="王熙凤" id="402" weight="7" />
-      <edge source="周全" target="尤氏" id="403" weight="3" />
+      <edge source="周全" target="尤氏" id="402" weight="3" />
+      <edge source="周全" target="王熙凤" id="403" weight="7" />
       <edge source="周全" target="薛宝钗" id="404" weight="3" />
       <edge source="周全" target="平儿" id="405" weight="3" />
-      <edge source="贾母" target="王夫人" id="406" weight="284" />
-      <edge source="贾母" target="邢夫人" id="407" weight="99" />
-      <edge source="贾母" target="李纨" id="408" weight="16" />
-      <edge source="贾母" target="王熙凤" id="409" weight="309" />
+      <edge source="贾母" target="王熙凤" id="406" weight="315" />
+      <edge source="贾母" target="王夫人" id="407" weight="284" />
+      <edge source="贾母" target="邢夫人" id="408" weight="99" />
+      <edge source="贾母" target="李纨" id="409" weight="16" />
       <edge source="贾母" target="李嬷嬷" id="410" weight="8" />
       <edge source="贾母" target="雪雁" id="411" weight="24" />
       <edge source="贾母" target="薛蟠" id="412" weight="26" />
@@ -907,8 +907,8 @@
       <edge source="贾母" target="平儿" id="419" weight="92" />
       <edge source="贾母" target="司棋" id="420" weight="8" />
       <edge source="贾母" target="秦钟" id="421" weight="13" />
-      <edge source="贾母" target="詹光" id="422" weight="4" />
-      <edge source="贾母" target="吴新登" id="423" weight="5" />
+      <edge source="贾母" target="吴新登" id="422" weight="5" />
+      <edge source="贾母" target="詹光" id="423" weight="4" />
       <edge source="贾母" target="李贵" id="424" weight="9" />
       <edge source="贾母" target="冯紫英" id="425" weight="5" />
       <edge source="贾母" target="贾瑞" id="426" weight="3" />
@@ -916,8 +916,8 @@
       <edge source="贾母" target="贾蔷" id="428" weight="6" />
       <edge source="贾母" target="贾芹" id="429" weight="6" />
       <edge source="贾母" target="贾菌" id="430" weight="3" />
-      <edge source="贾母" target="贾兰" id="431" weight="31" />
-      <edge source="贾母" target="贾琮" id="432" weight="5" />
+      <edge source="贾母" target="贾琮" id="431" weight="5" />
+      <edge source="贾母" target="贾兰" id="432" weight="31" />
       <edge source="贾母" target="贾芸" id="433" weight="20" />
       <edge source="贾母" target="赖大" id="434" weight="18" />
       <edge source="贾母" target="贾元春" id="435" weight="18" />
@@ -929,8 +929,8 @@
       <edge source="贾母" target="玉钏" id="441" weight="9" />
       <edge source="贾母" target="小红" id="442" weight="5" />
       <edge source="贾母" target="王太医" id="443" weight="6" />
-      <edge source="贾母" target="紫鹃" id="444" weight="55" />
-      <edge source="贾母" target="巧姐" id="445" weight="17" />
+      <edge source="贾母" target="巧姐" id="444" weight="17" />
+      <edge source="贾母" target="紫鹃" id="445" weight="55" />
       <edge source="贾母" target="林之孝" id="446" weight="24" />
       <edge source="贾母" target="蒋玉菡" id="447" weight="4" />
       <edge source="贾母" target="周姨娘" id="448" weight="5" />
@@ -939,9 +939,9 @@
       <edge source="贾母" target="赖嬷嬷" id="451" weight="3" />
       <edge source="贾母" target="金文翔" id="452" weight="3" />
       <edge source="贾母" target="柳湘莲" id="453" weight="3" />
-      <edge source="贾母" target="李纹" id="454" weight="10" />
-      <edge source="贾母" target="王仁" id="455" weight="5" />
-      <edge source="贾母" target="薛宝琴" id="456" weight="33" />
+      <edge source="贾母" target="薛宝琴" id="454" weight="33" />
+      <edge source="贾母" target="李纹" id="455" weight="10" />
+      <edge source="贾母" target="王仁" id="456" weight="5" />
       <edge source="贾母" target="尤三姐" id="457" weight="4" />
       <edge source="贾母" target="尤二姐" id="458" weight="19" />
       <edge source="贾母" target="俞禄" id="459" weight="4" />
@@ -954,149 +954,149 @@
       <edge source="贾母" target="夏金桂" id="466" weight="3" />
       <edge source="贾母" target="李婶娘" id="467" weight="6" />
       <edge source="贾母" target="包勇" id="468" weight="6" />
-      <edge source="王夫人" target="邢夫人" id="469" weight="99" />
-      <edge source="王夫人" target="李纨" id="470" weight="14" />
-      <edge source="王夫人" target="王熙凤" id="471" weight="217" />
-      <edge source="王夫人" target="薛蟠" id="472" weight="23" />
-      <edge source="王夫人" target="薛姨妈" id="473" weight="97" />
-      <edge source="王夫人" target="薛宝钗" id="474" weight="153" />
-      <edge source="王夫人" target="尤氏" id="475" weight="57" />
-      <edge source="王夫人" target="周瑞家的" id="476" weight="20" />
-      <edge source="王夫人" target="金钏" id="477" weight="17" />
-      <edge source="王夫人" target="周瑞" id="478" weight="22" />
-      <edge source="王夫人" target="司棋" id="479" weight="9" />
-      <edge source="王夫人" target="秦可卿" id="480" weight="5" />
-      <edge source="王夫人" target="秦钟" id="481" weight="7" />
-      <edge source="王夫人" target="贾代儒" id="482" weight="4" />
-      <edge source="王夫人" target="贾瑞" id="483" weight="4" />
-      <edge source="王夫人" target="贾蔷" id="484" weight="8" />
-      <edge source="王夫人" target="北静王" id="485" weight="6" />
-      <edge source="王夫人" target="李贵" id="486" weight="6" />
-      <edge source="王夫人" target="平儿" id="487" weight="53" />
-      <edge source="王夫人" target="旺儿" id="488" weight="7" />
-      <edge source="王夫人" target="王仁" id="489" weight="7" />
-      <edge source="王夫人" target="赖大" id="490" weight="16" />
-      <edge source="王夫人" target="妙玉" id="491" weight="6" />
-      <edge source="王夫人" target="林之孝" id="492" weight="10" />
-      <edge source="王夫人" target="贾元春" id="493" weight="15" />
-      <edge source="王夫人" target="贾兰" id="494" weight="24" />
-      <edge source="王夫人" target="贾环" id="495" weight="36" />
-      <edge source="王夫人" target="史湘云" id="496" weight="15" />
-      <edge source="王夫人" target="贾芹" id="497" weight="5" />
-      <edge source="王夫人" target="贾芸" id="498" weight="13" />
-      <edge source="王夫人" target="秋纹" id="499" weight="14" />
-      <edge source="王夫人" target="玉钏" id="500" weight="10" />
-      <edge source="王夫人" target="周姨娘" id="501" weight="6" />
-      <edge source="王夫人" target="王太医" id="502" weight="6" />
-      <edge source="王夫人" target="紫鹃" id="503" weight="27" />
-      <edge source="王夫人" target="雪雁" id="504" weight="9" />
-      <edge source="王夫人" target="巧姐" id="505" weight="26" />
-      <edge source="王夫人" target="李纹" id="506" weight="5" />
-      <edge source="王夫人" target="薛宝琴" id="507" weight="16" />
-      <edge source="王夫人" target="尤二姐" id="508" weight="6" />
-      <edge source="王夫人" target="秋桐" id="509" weight="5" />
-      <edge source="王夫人" target="佩凤" id="510" weight="3" />
-      <edge source="王夫人" target="王善保" id="511" weight="8" />
-      <edge source="王夫人" target="夏金桂" id="512" weight="3" />
-      <edge source="王夫人" target="李婶娘" id="513" weight="4" />
-      <edge source="王夫人" target="甄宝玉" id="514" weight="4" />
-      <edge source="邢夫人" target="尤氏" id="515" weight="40" />
-      <edge source="邢夫人" target="王熙凤" id="516" weight="81" />
-      <edge source="邢夫人" target="北静王" id="517" weight="3" />
-      <edge source="邢夫人" target="李贵" id="518" weight="4" />
-      <edge source="邢夫人" target="赖大" id="519" weight="10" />
-      <edge source="邢夫人" target="贾蔷" id="520" weight="3" />
-      <edge source="邢夫人" target="薛姨妈" id="521" weight="25" />
-      <edge source="邢夫人" target="贾元春" id="522" weight="9" />
-      <edge source="邢夫人" target="薛宝钗" id="523" weight="32" />
-      <edge source="邢夫人" target="贾兰" id="524" weight="13" />
-      <edge source="邢夫人" target="贾环" id="525" weight="16" />
-      <edge source="邢夫人" target="贾琮" id="526" weight="4" />
-      <edge source="邢夫人" target="贾芹" id="527" weight="3" />
-      <edge source="邢夫人" target="贾芸" id="528" weight="11" />
-      <edge source="邢夫人" target="平儿" id="529" weight="33" />
-      <edge source="邢夫人" target="周瑞家的" id="530" weight="8" />
-      <edge source="邢夫人" target="周瑞" id="531" weight="8" />
-      <edge source="邢夫人" target="薛蟠" id="532" weight="6" />
-      <edge source="邢夫人" target="紫鹃" id="533" weight="5" />
-      <edge source="邢夫人" target="周姨娘" id="534" weight="3" />
-      <edge source="邢夫人" target="李纹" id="535" weight="5" />
-      <edge source="邢夫人" target="王仁" id="536" weight="5" />
-      <edge source="邢夫人" target="薛宝琴" id="537" weight="11" />
-      <edge source="邢夫人" target="史湘云" id="538" weight="5" />
-      <edge source="邢夫人" target="林之孝" id="539" weight="7" />
-      <edge source="邢夫人" target="尤二姐" id="540" weight="3" />
-      <edge source="邢夫人" target="秋桐" id="541" weight="5" />
-      <edge source="邢夫人" target="佩凤" id="542" weight="3" />
-      <edge source="邢夫人" target="司棋" id="543" weight="3" />
-      <edge source="邢夫人" target="王善保" id="544" weight="5" />
-      <edge source="邢夫人" target="巧姐" id="545" weight="17" />
-      <edge source="邢夫人" target="李婶娘" id="546" weight="3" />
-      <edge source="李纨" target="王熙凤" id="547" weight="19" />
-      <edge source="李纨" target="薛宝钗" id="548" weight="13" />
-      <edge source="李纨" target="紫鹃" id="549" weight="4" />
-      <edge source="李纨" target="雪雁" id="550" weight="3" />
-      <edge source="李纨" target="周姨娘" id="551" weight="3" />
-      <edge source="李纨" target="平儿" id="552" weight="9" />
-      <edge source="李纨" target="小红" id="553" weight="4" />
-      <edge source="李纨" target="薛姨妈" id="554" weight="4" />
-      <edge source="李纨" target="史湘云" id="555" weight="3" />
-      <edge source="李纨" target="尤氏" id="556" weight="4" />
-      <edge source="王熙凤" target="平儿" id="557" weight="144" />
-      <edge source="王熙凤" target="周瑞家的" id="558" weight="34" />
-      <edge source="王熙凤" target="周瑞" id="559" weight="43" />
-      <edge source="王熙凤" target="尤氏" id="560" weight="79" />
-      <edge source="王熙凤" target="秦可卿" id="561" weight="22" />
-      <edge source="王熙凤" target="秦钟" id="562" weight="12" />
-      <edge source="王熙凤" target="北静王" id="563" weight="7" />
-      <edge source="王熙凤" target="贾瑞" id="564" weight="12" />
-      <edge source="王熙凤" target="李贵" id="565" weight="3" />
-      <edge source="王熙凤" target="旺儿" id="566" weight="23" />
-      <edge source="王熙凤" target="贾蔷" id="567" weight="8" />
-      <edge source="王熙凤" target="王仁" id="568" weight="9" />
-      <edge source="王熙凤" target="赖大" id="569" weight="15" />
-      <edge source="王熙凤" target="薛姨妈" id="570" weight="76" />
-      <edge source="王熙凤" target="赵嬷嬷" id="571" weight="6" />
-      <edge source="王熙凤" target="薛宝钗" id="572" weight="125" />
-      <edge source="王熙凤" target="贾元春" id="573" weight="12" />
-      <edge source="王熙凤" target="贾兰" id="574" weight="12" />
-      <edge source="王熙凤" target="贾环" id="575" weight="18" />
-      <edge source="王熙凤" target="史湘云" id="576" weight="20" />
-      <edge source="王熙凤" target="贾芹" id="577" weight="5" />
-      <edge source="王熙凤" target="紫鹃" id="578" weight="23" />
-      <edge source="王熙凤" target="贾芸" id="579" weight="20" />
-      <edge source="王熙凤" target="小红" id="580" weight="8" />
-      <edge source="王熙凤" target="秋纹" id="581" weight="9" />
-      <edge source="王熙凤" target="金钏" id="582" weight="10" />
-      <edge source="王熙凤" target="玉钏" id="583" weight="9" />
-      <edge source="王熙凤" target="雪雁" id="584" weight="13" />
-      <edge source="王熙凤" target="周姨娘" id="585" weight="5" />
-      <edge source="王熙凤" target="薛蟠" id="586" weight="10" />
-      <edge source="王熙凤" target="巧姐" id="587" weight="22" />
-      <edge source="王熙凤" target="司棋" id="588" weight="11" />
-      <edge source="王熙凤" target="林之孝" id="589" weight="24" />
-      <edge source="王熙凤" target="吴新登" id="590" weight="4" />
-      <edge source="王熙凤" target="鲍二" id="591" weight="12" />
-      <edge source="王熙凤" target="赖嬷嬷" id="592" weight="3" />
-      <edge source="王熙凤" target="李纹" id="593" weight="8" />
-      <edge source="王熙凤" target="薛宝琴" id="594" weight="26" />
-      <edge source="王熙凤" target="妙玉" id="595" weight="6" />
-      <edge source="王熙凤" target="尤老娘" id="596" weight="3" />
-      <edge source="王熙凤" target="张华" id="597" weight="7" />
-      <edge source="王熙凤" target="尤二姐" id="598" weight="24" />
-      <edge source="王熙凤" target="尤三姐" id="599" weight="4" />
-      <edge source="王熙凤" target="柳湘莲" id="600" weight="3" />
-      <edge source="王熙凤" target="秋桐" id="601" weight="11" />
-      <edge source="王熙凤" target="王太医" id="602" weight="3" />
-      <edge source="王熙凤" target="佩凤" id="603" weight="4" />
-      <edge source="王熙凤" target="王善保" id="604" weight="8" />
-      <edge source="王熙凤" target="李婶娘" id="605" weight="3" />
-      <edge source="王熙凤" target="包勇" id="606" weight="4" />
-      <edge source="李嬷嬷" target="薛宝钗" id="607" weight="6" />
-      <edge source="李嬷嬷" target="薛姨妈" id="608" weight="3" />
-      <edge source="雪雁" target="紫鹃" id="609" weight="41" />
-      <edge source="雪雁" target="薛宝钗" id="610" weight="12" />
-      <edge source="雪雁" target="薛姨妈" id="611" weight="5" />
+      <edge source="王熙凤" target="王夫人" id="469" weight="222" />
+      <edge source="王熙凤" target="李纨" id="470" weight="21" />
+      <edge source="王熙凤" target="薛蟠" id="471" weight="12" />
+      <edge source="王熙凤" target="周瑞家的" id="472" weight="34" />
+      <edge source="王熙凤" target="平儿" id="473" weight="144" />
+      <edge source="王熙凤" target="周瑞" id="474" weight="43" />
+      <edge source="王熙凤" target="尤氏" id="475" weight="79" />
+      <edge source="王熙凤" target="秦可卿" id="476" weight="22" />
+      <edge source="王熙凤" target="秦钟" id="477" weight="12" />
+      <edge source="王熙凤" target="邢夫人" id="478" weight="82" />
+      <edge source="王熙凤" target="北静王" id="479" weight="7" />
+      <edge source="王熙凤" target="贾瑞" id="480" weight="12" />
+      <edge source="王熙凤" target="李贵" id="481" weight="3" />
+      <edge source="王熙凤" target="旺儿" id="482" weight="23" />
+      <edge source="王熙凤" target="贾蔷" id="483" weight="8" />
+      <edge source="王熙凤" target="王仁" id="484" weight="9" />
+      <edge source="王熙凤" target="薛姨妈" id="485" weight="78" />
+      <edge source="王熙凤" target="赖大" id="486" weight="15" />
+      <edge source="王熙凤" target="赵嬷嬷" id="487" weight="6" />
+      <edge source="王熙凤" target="薛宝钗" id="488" weight="128" />
+      <edge source="王熙凤" target="贾元春" id="489" weight="13" />
+      <edge source="王熙凤" target="贾环" id="490" weight="19" />
+      <edge source="王熙凤" target="贾兰" id="491" weight="13" />
+      <edge source="王熙凤" target="史湘云" id="492" weight="20" />
+      <edge source="王熙凤" target="贾芹" id="493" weight="5" />
+      <edge source="王熙凤" target="紫鹃" id="494" weight="23" />
+      <edge source="王熙凤" target="贾芸" id="495" weight="20" />
+      <edge source="王熙凤" target="秋纹" id="496" weight="9" />
+      <edge source="王熙凤" target="小红" id="497" weight="8" />
+      <edge source="王熙凤" target="金钏" id="498" weight="10" />
+      <edge source="王熙凤" target="玉钏" id="499" weight="9" />
+      <edge source="王熙凤" target="雪雁" id="500" weight="13" />
+      <edge source="王熙凤" target="周姨娘" id="501" weight="5" />
+      <edge source="王熙凤" target="巧姐" id="502" weight="22" />
+      <edge source="王熙凤" target="司棋" id="503" weight="11" />
+      <edge source="王熙凤" target="林之孝" id="504" weight="24" />
+      <edge source="王熙凤" target="吴新登" id="505" weight="4" />
+      <edge source="王熙凤" target="鲍二" id="506" weight="12" />
+      <edge source="王熙凤" target="赖嬷嬷" id="507" weight="3" />
+      <edge source="王熙凤" target="薛宝琴" id="508" weight="26" />
+      <edge source="王熙凤" target="李纹" id="509" weight="8" />
+      <edge source="王熙凤" target="妙玉" id="510" weight="6" />
+      <edge source="王熙凤" target="尤老娘" id="511" weight="3" />
+      <edge source="王熙凤" target="张华" id="512" weight="7" />
+      <edge source="王熙凤" target="尤二姐" id="513" weight="24" />
+      <edge source="王熙凤" target="尤三姐" id="514" weight="4" />
+      <edge source="王熙凤" target="柳湘莲" id="515" weight="3" />
+      <edge source="王熙凤" target="秋桐" id="516" weight="11" />
+      <edge source="王熙凤" target="王太医" id="517" weight="3" />
+      <edge source="王熙凤" target="佩凤" id="518" weight="4" />
+      <edge source="王熙凤" target="王善保" id="519" weight="8" />
+      <edge source="王熙凤" target="李婶娘" id="520" weight="3" />
+      <edge source="王熙凤" target="包勇" id="521" weight="4" />
+      <edge source="王夫人" target="邢夫人" id="522" weight="99" />
+      <edge source="王夫人" target="李纨" id="523" weight="14" />
+      <edge source="王夫人" target="薛蟠" id="524" weight="23" />
+      <edge source="王夫人" target="薛姨妈" id="525" weight="97" />
+      <edge source="王夫人" target="薛宝钗" id="526" weight="153" />
+      <edge source="王夫人" target="尤氏" id="527" weight="57" />
+      <edge source="王夫人" target="金钏" id="528" weight="17" />
+      <edge source="王夫人" target="周瑞家的" id="529" weight="20" />
+      <edge source="王夫人" target="周瑞" id="530" weight="22" />
+      <edge source="王夫人" target="司棋" id="531" weight="9" />
+      <edge source="王夫人" target="秦可卿" id="532" weight="5" />
+      <edge source="王夫人" target="秦钟" id="533" weight="7" />
+      <edge source="王夫人" target="贾代儒" id="534" weight="4" />
+      <edge source="王夫人" target="贾蔷" id="535" weight="8" />
+      <edge source="王夫人" target="贾瑞" id="536" weight="4" />
+      <edge source="王夫人" target="北静王" id="537" weight="6" />
+      <edge source="王夫人" target="李贵" id="538" weight="6" />
+      <edge source="王夫人" target="平儿" id="539" weight="53" />
+      <edge source="王夫人" target="旺儿" id="540" weight="7" />
+      <edge source="王夫人" target="王仁" id="541" weight="7" />
+      <edge source="王夫人" target="赖大" id="542" weight="16" />
+      <edge source="王夫人" target="林之孝" id="543" weight="10" />
+      <edge source="王夫人" target="妙玉" id="544" weight="6" />
+      <edge source="王夫人" target="贾元春" id="545" weight="15" />
+      <edge source="王夫人" target="贾环" id="546" weight="36" />
+      <edge source="王夫人" target="贾兰" id="547" weight="24" />
+      <edge source="王夫人" target="史湘云" id="548" weight="15" />
+      <edge source="王夫人" target="贾芹" id="549" weight="5" />
+      <edge source="王夫人" target="贾芸" id="550" weight="13" />
+      <edge source="王夫人" target="秋纹" id="551" weight="14" />
+      <edge source="王夫人" target="玉钏" id="552" weight="10" />
+      <edge source="王夫人" target="周姨娘" id="553" weight="6" />
+      <edge source="王夫人" target="王太医" id="554" weight="6" />
+      <edge source="王夫人" target="巧姐" id="555" weight="26" />
+      <edge source="王夫人" target="雪雁" id="556" weight="9" />
+      <edge source="王夫人" target="紫鹃" id="557" weight="27" />
+      <edge source="王夫人" target="薛宝琴" id="558" weight="16" />
+      <edge source="王夫人" target="李纹" id="559" weight="5" />
+      <edge source="王夫人" target="尤二姐" id="560" weight="6" />
+      <edge source="王夫人" target="秋桐" id="561" weight="5" />
+      <edge source="王夫人" target="佩凤" id="562" weight="3" />
+      <edge source="王夫人" target="王善保" id="563" weight="8" />
+      <edge source="王夫人" target="夏金桂" id="564" weight="3" />
+      <edge source="王夫人" target="李婶娘" id="565" weight="4" />
+      <edge source="王夫人" target="甄宝玉" id="566" weight="4" />
+      <edge source="邢夫人" target="尤氏" id="567" weight="40" />
+      <edge source="邢夫人" target="北静王" id="568" weight="3" />
+      <edge source="邢夫人" target="李贵" id="569" weight="4" />
+      <edge source="邢夫人" target="薛姨妈" id="570" weight="25" />
+      <edge source="邢夫人" target="贾蔷" id="571" weight="3" />
+      <edge source="邢夫人" target="赖大" id="572" weight="10" />
+      <edge source="邢夫人" target="贾元春" id="573" weight="9" />
+      <edge source="邢夫人" target="薛宝钗" id="574" weight="32" />
+      <edge source="邢夫人" target="贾环" id="575" weight="16" />
+      <edge source="邢夫人" target="贾兰" id="576" weight="13" />
+      <edge source="邢夫人" target="贾琮" id="577" weight="4" />
+      <edge source="邢夫人" target="贾芹" id="578" weight="3" />
+      <edge source="邢夫人" target="贾芸" id="579" weight="11" />
+      <edge source="邢夫人" target="周瑞家的" id="580" weight="8" />
+      <edge source="邢夫人" target="薛蟠" id="581" weight="6" />
+      <edge source="邢夫人" target="平儿" id="582" weight="33" />
+      <edge source="邢夫人" target="周瑞" id="583" weight="8" />
+      <edge source="邢夫人" target="周姨娘" id="584" weight="3" />
+      <edge source="邢夫人" target="紫鹃" id="585" weight="5" />
+      <edge source="邢夫人" target="薛宝琴" id="586" weight="11" />
+      <edge source="邢夫人" target="李纹" id="587" weight="5" />
+      <edge source="邢夫人" target="王仁" id="588" weight="5" />
+      <edge source="邢夫人" target="史湘云" id="589" weight="5" />
+      <edge source="邢夫人" target="林之孝" id="590" weight="7" />
+      <edge source="邢夫人" target="尤二姐" id="591" weight="3" />
+      <edge source="邢夫人" target="秋桐" id="592" weight="5" />
+      <edge source="邢夫人" target="佩凤" id="593" weight="3" />
+      <edge source="邢夫人" target="司棋" id="594" weight="3" />
+      <edge source="邢夫人" target="王善保" id="595" weight="5" />
+      <edge source="邢夫人" target="巧姐" id="596" weight="17" />
+      <edge source="邢夫人" target="李婶娘" id="597" weight="3" />
+      <edge source="李纨" target="薛宝钗" id="598" weight="13" />
+      <edge source="李纨" target="紫鹃" id="599" weight="4" />
+      <edge source="李纨" target="雪雁" id="600" weight="3" />
+      <edge source="李纨" target="周姨娘" id="601" weight="3" />
+      <edge source="李纨" target="平儿" id="602" weight="9" />
+      <edge source="李纨" target="小红" id="603" weight="4" />
+      <edge source="李纨" target="薛姨妈" id="604" weight="4" />
+      <edge source="李纨" target="史湘云" id="605" weight="3" />
+      <edge source="李纨" target="尤氏" id="606" weight="4" />
+      <edge source="李嬷嬷" target="薛姨妈" id="607" weight="3" />
+      <edge source="李嬷嬷" target="薛宝钗" id="608" weight="6" />
+      <edge source="雪雁" target="薛姨妈" id="609" weight="5" />
+      <edge source="雪雁" target="紫鹃" id="610" weight="41" />
+      <edge source="雪雁" target="薛宝钗" id="611" weight="12" />
       <edge source="雪雁" target="史湘云" id="612" weight="3" />
       <edge source="雪雁" target="平儿" id="613" weight="3" />
       <edge source="薛蟠" target="冯渊" id="614" weight="4" />
@@ -1109,15 +1109,15 @@
       <edge source="薛蟠" target="蒋玉菡" id="621" weight="7" />
       <edge source="薛蟠" target="柳湘莲" id="622" weight="7" />
       <edge source="薛蟠" target="张德辉" id="623" weight="4" />
-      <edge source="薛蟠" target="李纹" id="624" weight="3" />
-      <edge source="薛蟠" target="薛宝琴" id="625" weight="5" />
+      <edge source="薛蟠" target="薛宝琴" id="624" weight="5" />
+      <edge source="薛蟠" target="李纹" id="625" weight="3" />
       <edge source="薛蟠" target="尤三姐" id="626" weight="4" />
       <edge source="薛蟠" target="贾兰" id="627" weight="3" />
       <edge source="薛蟠" target="夏金桂" id="628" weight="12" />
       <edge source="薛蟠" target="张三" id="629" weight="4" />
-      <edge source="贾兰" target="贾菌" id="630" weight="4" />
-      <edge source="贾兰" target="贾蔷" id="631" weight="5" />
-      <edge source="贾兰" target="秦钟" id="632" weight="3" />
+      <edge source="贾兰" target="秦钟" id="630" weight="3" />
+      <edge source="贾兰" target="贾菌" id="631" weight="4" />
+      <edge source="贾兰" target="贾蔷" id="632" weight="5" />
       <edge source="贾兰" target="尤氏" id="633" weight="11" />
       <edge source="贾兰" target="贾琮" id="634" weight="4" />
       <edge source="贾兰" target="贾芸" id="635" weight="3" />
@@ -1130,8 +1130,8 @@
       <edge source="贾兰" target="林之孝" id="642" weight="3" />
       <edge source="贾兰" target="巧姐" id="643" weight="6" />
       <edge source="贾兰" target="薛姨妈" id="644" weight="7" />
-      <edge source="贾兰" target="李婶娘" id="645" weight="4" />
-      <edge source="贾兰" target="史湘云" id="646" weight="3" />
+      <edge source="贾兰" target="史湘云" id="645" weight="3" />
+      <edge source="贾兰" target="李婶娘" id="646" weight="4" />
       <edge source="贾兰" target="甄宝玉" id="647" weight="7" />
       <edge source="薛宝钗" target="薛姨妈" id="648" weight="105" />
       <edge source="薛宝钗" target="周瑞家的" id="649" weight="13" />
@@ -1154,20 +1154,20 @@
       <edge source="薛宝钗" target="妙玉" id="666" weight="10" />
       <edge source="薛宝钗" target="赖大" id="667" weight="7" />
       <edge source="薛宝钗" target="林之孝" id="668" weight="7" />
-      <edge source="薛宝钗" target="李纹" id="669" weight="10" />
-      <edge source="薛宝钗" target="王仁" id="670" weight="4" />
-      <edge source="薛宝钗" target="薛宝琴" id="671" weight="48" />
+      <edge source="薛宝钗" target="薛宝琴" id="669" weight="48" />
+      <edge source="薛宝钗" target="李纹" id="670" weight="10" />
+      <edge source="薛宝钗" target="王仁" id="671" weight="4" />
       <edge source="薛宝钗" target="王善保" id="672" weight="3" />
       <edge source="薛宝钗" target="夏金桂" id="673" weight="15" />
       <edge source="薛宝钗" target="李婶娘" id="674" weight="5" />
       <edge source="薛宝钗" target="甄宝玉" id="675" weight="4" />
-      <edge source="薛姨妈" target="周瑞家的" id="676" weight="11" />
-      <edge source="薛姨妈" target="金钏" id="677" weight="6" />
+      <edge source="薛姨妈" target="金钏" id="676" weight="6" />
+      <edge source="薛姨妈" target="周瑞家的" id="677" weight="11" />
       <edge source="薛姨妈" target="周瑞" id="678" weight="12" />
       <edge source="薛姨妈" target="紫鹃" id="679" weight="10" />
-      <edge source="薛姨妈" target="赖大" id="680" weight="9" />
-      <edge source="薛姨妈" target="尤氏" id="681" weight="18" />
-      <edge source="薛姨妈" target="贾蔷" id="682" weight="3" />
+      <edge source="薛姨妈" target="尤氏" id="680" weight="18" />
+      <edge source="薛姨妈" target="贾蔷" id="681" weight="3" />
+      <edge source="薛姨妈" target="赖大" id="682" weight="9" />
       <edge source="薛姨妈" target="林之孝" id="683" weight="4" />
       <edge source="薛姨妈" target="贾元春" id="684" weight="6" />
       <edge source="薛姨妈" target="史湘云" id="685" weight="19" />
@@ -1186,14 +1186,14 @@
       <edge source="薛姨妈" target="夏金桂" id="698" weight="14" />
       <edge source="薛姨妈" target="李婶娘" id="699" weight="4" />
       <edge source="尤氏" target="秦可卿" id="700" weight="11" />
-      <edge source="尤氏" target="平儿" id="701" weight="20" />
-      <edge source="尤氏" target="秦钟" id="702" weight="6" />
+      <edge source="尤氏" target="秦钟" id="701" weight="6" />
+      <edge source="尤氏" target="平儿" id="702" weight="20" />
       <edge source="尤氏" target="冯紫英" id="703" weight="4" />
       <edge source="尤氏" target="北静王" id="704" weight="3" />
       <edge source="尤氏" target="李贵" id="705" weight="3" />
       <edge source="尤氏" target="贾芹" id="706" weight="4" />
-      <edge source="尤氏" target="贾蔷" id="707" weight="4" />
-      <edge source="尤氏" target="贾琮" id="708" weight="4" />
+      <edge source="尤氏" target="贾琮" id="707" weight="4" />
+      <edge source="尤氏" target="贾蔷" id="708" weight="4" />
       <edge source="尤氏" target="贾芸" id="709" weight="5" />
       <edge source="尤氏" target="赖大" id="710" weight="6" />
       <edge source="尤氏" target="贾元春" id="711" weight="4" />
@@ -1210,8 +1210,8 @@
       <edge source="尤氏" target="周瑞家的" id="722" weight="4" />
       <edge source="尤氏" target="周瑞" id="723" weight="5" />
       <edge source="尤氏" target="妙玉" id="724" weight="3" />
-      <edge source="秦可卿" target="平儿" id="725" weight="3" />
-      <edge source="秦可卿" target="秦钟" id="726" weight="7" />
+      <edge source="秦可卿" target="秦钟" id="725" weight="7" />
+      <edge source="秦可卿" target="平儿" id="726" weight="3" />
       <edge source="秦可卿" target="冯紫英" id="727" weight="3" />
       <edge source="周瑞" target="周瑞家的" id="728" weight="59" />
       <edge source="周瑞" target="平儿" id="729" weight="22" />
@@ -1239,10 +1239,10 @@
       <edge source="平儿" target="贾芸" id="751" weight="6" />
       <edge source="平儿" target="贾环" id="752" weight="10" />
       <edge source="平儿" target="小红" id="753" weight="4" />
-      <edge source="平儿" target="司棋" id="754" weight="5" />
-      <edge source="平儿" target="紫鹃" id="755" weight="7" />
+      <edge source="平儿" target="巧姐" id="754" weight="27" />
+      <edge source="平儿" target="司棋" id="755" weight="5" />
       <edge source="平儿" target="金钏" id="756" weight="5" />
-      <edge source="平儿" target="巧姐" id="757" weight="27" />
+      <edge source="平儿" target="紫鹃" id="757" weight="7" />
       <edge source="平儿" target="史湘云" id="758" weight="6" />
       <edge source="平儿" target="赖大" id="759" weight="8" />
       <edge source="平儿" target="鲍二" id="760" weight="4" />
@@ -1263,8 +1263,8 @@
       <edge source="秦钟" target="贾代儒" id="775" weight="4" />
       <edge source="秦钟" target="李贵" id="776" weight="6" />
       <edge source="秦钟" target="金荣" id="777" weight="8" />
-      <edge source="秦钟" target="贾瑞" id="778" weight="6" />
-      <edge source="秦钟" target="贾蔷" id="779" weight="3" />
+      <edge source="秦钟" target="贾蔷" id="778" weight="3" />
+      <edge source="秦钟" target="贾瑞" id="779" weight="6" />
       <edge source="秦钟" target="贾菌" id="780" weight="3" />
       <edge source="吴新登" target="赖大" id="781" weight="3" />
       <edge source="紫鹃" target="史湘云" id="782" weight="6" />
@@ -1274,12 +1274,12 @@
       <edge source="紫鹃" target="王太医" id="786" weight="3" />
       <edge source="紫鹃" target="秋纹" id="787" weight="11" />
       <edge source="紫鹃" target="贾环" id="788" weight="3" />
-      <edge source="贾代儒" target="贾瑞" id="789" weight="3" />
-      <edge source="贾代儒" target="贾蔷" id="790" weight="3" />
+      <edge source="贾代儒" target="贾蔷" id="789" weight="3" />
+      <edge source="贾代儒" target="贾瑞" id="790" weight="3" />
       <edge source="李贵" target="贾瑞" id="791" weight="3" />
       <edge source="李贵" target="赖大" id="792" weight="3" />
       <edge source="金荣" target="贾瑞" id="793" weight="6" />
-      <edge source="贾瑞" target="贾蔷" id="794" weight="5" />
+      <edge source="贾蔷" target="贾瑞" id="794" weight="5" />
       <edge source="贾蔷" target="贾芸" id="795" weight="6" />
       <edge source="贾蔷" target="赖大" id="796" weight="3" />
       <edge source="贾蔷" target="贾环" id="797" weight="5" />
@@ -1321,21 +1321,21 @@
       <edge source="贾环" target="甄宝玉" id="833" weight="3" />
       <edge source="秋纹" target="巧姐" id="834" weight="3" />
       <edge source="史湘云" target="蒋玉菡" id="835" weight="4" />
-      <edge source="史湘云" target="李纹" id="836" weight="4" />
-      <edge source="史湘云" target="薛宝琴" id="837" weight="12" />
+      <edge source="史湘云" target="薛宝琴" id="836" weight="12" />
+      <edge source="史湘云" target="李纹" id="837" weight="4" />
       <edge source="史湘云" target="李婶娘" id="838" weight="5" />
       <edge source="卜世仁" target="倪二" id="839" weight="3" />
       <edge source="巧姐" target="秋桐" id="840" weight="3" />
       <edge source="鲍二" target="尤二姐" id="841" weight="5" />
       <edge source="柳湘莲" target="尤二姐" id="842" weight="3" />
       <edge source="柳湘莲" target="尤三姐" id="843" weight="4" />
-      <edge source="李纹" target="薛宝琴" id="844" weight="9" />
+      <edge source="薛宝琴" target="李纹" id="844" weight="9" />
       <edge source="薛宝琴" target="李婶娘" id="845" weight="4" />
       <edge source="尤三姐" target="尤二姐" id="846" weight="5" />
       <edge source="尤二姐" target="尤老娘" id="847" weight="4" />
       <edge source="尤二姐" target="张华" id="848" weight="5" />
       <edge source="尤二姐" target="秋桐" id="849" weight="7" />
-      <edge source="张三" target="吴良" id="850" weight="3" />
+      <edge source="吴良" target="张三" id="850" weight="3" />
     </edges>
   </graph>
 </gexf>
