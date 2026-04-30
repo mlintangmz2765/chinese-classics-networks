@@ -3,8 +3,10 @@
 # But do not ignore README.md
 !README.md
 
-# Ignore all TXT, ZIP, Word. and PDF documents
+# Ignore all TXT, ZIP, Word, and PDF documents
 *.txt
+# But do not ignore requirements.txt
+!requirements.txt
 *.zip
 *.docx
 *.pdf

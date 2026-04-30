@@ -1,0 +1,5 @@
+Novel,min_degree,max_degree,mean_degree,std_degree,median_degree,power_law_alpha,power_law_xmin,pl_vs_exp_R,pl_vs_exp_p,pl_vs_lognormal_R,pl_vs_lognormal_p
+Three Kingdoms,2,58,18.74,11.26,17.0,2.3454,9.0,-3.5209,0.0004,-2.7703,0.0056
+Water Margin,1,138,61.94,41.4,86.0,1.245,1.0,-9.2861,0.0,-8.9271,0.0
+Journey to the West,1,56,7.6,9.63,4.0,2.0827,3.0,1.3224,0.186,-0.8825,0.3775
+Dream of the Red Chamber,1,78,17.92,17.44,11.0,2.0536,8.0,-1.5874,0.1124,-2.1648,0.0304

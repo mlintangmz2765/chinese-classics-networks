@@ -1,0 +1,5 @@
+Novel,Targeted Robustness (AUC),Random Robustness (AUC),Robustness Ratio (T/R)
+Three Kingdoms,0.8036,0.8036,1.0
+Water Margin,0.8408,0.8408,1.0
+Journey to the West,0.7451,0.8176,0.9113
+Dream of the Red Chamber,0.8113,0.8301,0.9774

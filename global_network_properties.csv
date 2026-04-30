@@ -1,0 +1,5 @@
+Novel,Nodes,Edges,Density,Average Degree,Avg. Clustering Coefficient,Transitivity,Avg. Path Length,Diameter,Assortativity
+Three Kingdoms,70,656,0.2716,18.74,0.6967,0.5033,1.7673,3,-0.1948
+Water Margin,157,4862,0.397,61.94,0.8571,0.8442,1.6832,4,-0.0041
+Journey to the West,65,247,0.1187,7.6,0.7483,0.3081,2.0553,3,-0.4713
+Dream of the Red Chamber,95,851,0.1906,17.92,0.7483,0.4926,1.9451,5,-0.4143

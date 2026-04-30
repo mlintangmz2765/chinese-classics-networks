@@ -1,0 +1,5 @@
+Novel,C_real,C_ER,C_BA,L_real,L_ER,L_BA,gamma (C_real/C_ER),lambda (L_real/L_ER),sigma (small-world)
+Three Kingdoms,0.6967,0.2721,0.3319,1.7673,1.7321,1.8006,2.5602,1.0203,2.5092
+Water Margin,0.8571,0.3985,0.4197,1.6832,1.6017,1.6811,2.1508,1.0508,2.0468
+Journey to the West,0.7483,0.1171,0.2247,2.0553,2.2534,2.1969,6.3895,0.9121,7.0055
+Dream of the Red Chamber,0.7483,0.1904,0.2736,1.9451,1.8357,1.8858,3.9292,1.0596,3.7081

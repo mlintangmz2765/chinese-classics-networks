@@ -1,0 +1,13 @@
+# Character Network Analysis Pipeline
+# Python 3.8+
+
+networkx>=2.6
+jieba>=0.42
+matplotlib>=3.5
+numpy>=1.21
+powerlaw>=1.5
+python-louvain>=0.16
+pypinyin>=0.47
+adjustText>=0.8
+requests>=2.28
+beautifulsoup4>=4.11

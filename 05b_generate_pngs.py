@@ -11,6 +11,13 @@ plt.rcParams['axes.unicode_minus'] = False
 
 novels = ['three_kingdoms', 'water_margin', 'journey_west', 'red_chamber']
 
+NOVEL_DISPLAY_NAMES = {
+    'three_kingdoms': 'Romance of the Three Kingdoms',
+    'water_margin': 'Water Margin',
+    'journey_west': 'Journey to the West',
+    'red_chamber': 'Dream of the Red Chamber',
+}
+
 for novel in novels:
     gexf_file = f"{novel}_top30_focus.gexf"
     if not os.path.exists(gexf_file):
@@ -120,7 +127,6 @@ for novel in novels:
                title="Network Metrics & Factions", fontsize=12, title_fontsize=14, frameon=True)
     
     plt.axis('off')
-    plt.title(f"Network Visualization of {novel.upper()} (Top 30 Central Characters)", fontsize=16, pad=20)
     plt.tight_layout()
     
     out_file = f"plot_{novel}.png"
