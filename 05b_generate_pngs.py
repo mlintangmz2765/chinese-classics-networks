@@ -113,19 +113,7 @@ for novel in novels:
                 force_text=(0.8, 0.8), force_points=(0.8, 0.8),
                 arrowprops=dict(arrowstyle="-", color='gray', lw=0.5, alpha=0.6))
     
-    legend_elements = [
-        Line2D([0], [0], marker='o', color='w', markerfacecolor='gray', markersize=12, label='Node Size: Degree Centrality'),
-        Line2D([0], [0], color='#555555', lw=3, label='Edge Thickness: Co-occurrence Freq.')
-    ]
-    
-    legend_elements += [Line2D([0], [0], marker='o', color='w', 
-                               markerfacecolor=cmap(i % 10), 
-                               markersize=15, label=f'Faction/Community {c}') 
-                        for i, c in enumerate(unique_comms)]
-                        
-    plt.legend(handles=legend_elements, loc='upper left', bbox_to_anchor=(1.02, 1), 
-               title="Network Metrics & Factions", fontsize=12, title_fontsize=14, frameon=True)
-    
+
     plt.axis('off')
     plt.tight_layout()
     
